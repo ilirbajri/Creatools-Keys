@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="FM Electric Tines 2" RRGroupAmount="1.0"
+           MicPositions=";" SaveMode="2">
+  <sample Root="36" LoKey="0" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_C0.wav"
+          Duplicate="0" SampleStartMod="202487" SampleEnd="802771" SampleRate="48000.0"
+          Volume="3" MonolithOffset="0" MonolithLength="802816"/>
+  <sample Root="39" LoKey="37" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_D#0.wav"
+          Duplicate="0" SampleStartMod="206986" SampleEnd="782374" SampleRate="48000.0"
+          Volume="3" MonolithOffset="802816" MonolithLength="786432"/>
+  <sample Root="42" LoKey="40" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_F#0.wav"
+          Duplicate="0" SampleStartMod="212870" SampleEnd="786125" SampleRate="48000.0"
+          Volume="3" MonolithOffset="1589248" MonolithLength="786432"/>
+  <sample Root="45" LoKey="43" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_A0.wav"
+          Duplicate="0" SampleStartMod="183228" SampleEnd="774913" SampleRate="48000.0"
+          Volume="3" MonolithOffset="2375680" MonolithLength="778240"/>
+  <sample Root="48" LoKey="46" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_C1.wav"
+          Duplicate="0" SampleStartMod="161378" SampleEnd="776043" SampleRate="48000.0"
+          Volume="3" MonolithOffset="3153920" MonolithLength="778240"/>
+  <sample Root="51" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_D#1.wav"
+          Duplicate="0" SampleStartMod="169880" SampleEnd="777783" SampleRate="48000.0"
+          Volume="3" MonolithOffset="3932160" MonolithLength="778240"/>
+  <sample Root="54" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_F#1.wav"
+          Duplicate="0" SampleStartMod="160530" SampleEnd="770789" SampleRate="48000.0"
+          Volume="3" MonolithOffset="4710400" MonolithLength="774144"/>
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_A1.wav"
+          Duplicate="0" SampleStartMod="148544" SampleEnd="721639" SampleRate="48000.0"
+          Volume="3" MonolithOffset="5484544" MonolithLength="724992"/>
+  <sample Root="60" LoKey="58" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_C2.wav"
+          Duplicate="0" SampleStartMod="152937" SampleEnd="720367" SampleRate="48000.0"
+          Volume="3" MonolithOffset="6209536" MonolithLength="720896"/>
+  <sample Root="63" LoKey="61" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_D#2.wav"
+          Duplicate="0" SampleStartMod="122033" SampleEnd="671329" SampleRate="48000.0"
+          Volume="3" MonolithOffset="6930432" MonolithLength="671744"/>
+  <sample Root="66" LoKey="64" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_F#2.wav"
+          Duplicate="0" SampleStartMod="112073" SampleEnd="644822" SampleRate="48000.0"
+          Volume="3" MonolithOffset="7602176" MonolithLength="647168"/>
+  <sample Root="69" LoKey="67" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_A2.wav"
+          Duplicate="0" SampleStartMod="116191" SampleEnd="671867" SampleRate="48000.0"
+          Volume="3" MonolithOffset="8249344" MonolithLength="675840"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_C3.wav"
+          Duplicate="0" SampleStartMod="107962" SampleEnd="674269" SampleRate="48000.0"
+          Volume="3" MonolithOffset="8925184" MonolithLength="675840"/>
+  <sample Root="75" LoKey="73" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_D#3.wav"
+          Duplicate="0" SampleStartMod="95842" SampleEnd="670516" SampleRate="48000.0"
+          Volume="3" MonolithOffset="9601024" MonolithLength="671744"/>
+  <sample Root="78" LoKey="76" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_F#3.wav"
+          Duplicate="0" SampleStartMod="91544" SampleEnd="627057" SampleRate="48000.0"
+          Volume="3" MonolithOffset="10272768" MonolithLength="630784"/>
+  <sample Root="81" LoKey="79" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_A3.wav"
+          Duplicate="0" SampleStartMod="83070" SampleEnd="684690" SampleRate="48000.0"
+          Volume="3" MonolithOffset="10903552" MonolithLength="688128"/>
+  <sample Root="84" LoKey="82" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_C4.wav"
+          Duplicate="0" SampleStartMod="77283" SampleEnd="529770" SampleRate="48000.0"
+          Volume="3" MonolithOffset="11591680" MonolithLength="532480"/>
+  <sample Root="87" LoKey="85" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_D#4.wav"
+          Duplicate="0" SampleStartMod="97399" SampleEnd="610827" SampleRate="48000.0"
+          Volume="3" MonolithOffset="12124160" MonolithLength="614400"/>
+  <sample Root="90" LoKey="88" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_F#4.wav"
+          Duplicate="0" SampleStartMod="87138" SampleEnd="583769" SampleRate="48000.0"
+          Volume="3" MonolithOffset="12738560" MonolithLength="585728"/>
+  <sample Root="93" LoKey="91" HiKey="93" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_A4.wav"
+          Duplicate="0" SampleStartMod="84621" SampleEnd="627245" SampleRate="48000.0"
+          Volume="3" MonolithOffset="13324288" MonolithLength="630784"/>
+  <sample Root="96" LoKey="94" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines2_C5.wav"
+          Duplicate="0" SampleStartMod="76090" SampleEnd="458162" SampleRate="48000.0"
+          Volume="3" MonolithOffset="13955072" MonolithLength="458752"/>
+</samplemap>

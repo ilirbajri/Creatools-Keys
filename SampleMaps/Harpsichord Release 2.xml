@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Harpsichord Release 2" RRGroupAmount="1.0"
+           MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="34" HiKey="34" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A#0_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="0" MonolithLength="36864"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A#1_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="36864" MonolithLength="36864"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A#2_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="73728" MonolithLength="36864"/>
+  <sample Root="82" LoKey="82" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A#4_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="110592" MonolithLength="36864"/>
+  <sample Root="33" LoKey="33" HiKey="33" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A0_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="147456" MonolithLength="36864"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A1_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="184320" MonolithLength="36864"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_A4_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="221184" MonolithLength="36864"/>
+  <sample Root="35" LoKey="35" HiKey="35" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_B0_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="258048" MonolithLength="36864"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_B1_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="294912" MonolithLength="36864"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_B2_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="331776" MonolithLength="36864"/>
+  <sample Root="37" LoKey="37" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C#1_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="368640" MonolithLength="36864"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C#2_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="405504" MonolithLength="36864"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C#3_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="15014" SampleEnd="15014"
+          SampleRate="44100.0" MonolithOffset="442368" MonolithLength="16384"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C#4_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="27907"
+          SampleRate="44100.0" MonolithOffset="458752" MonolithLength="28672"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C1_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="487424" MonolithLength="36864"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C2_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="524288" MonolithLength="36864"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C3_rr1.wav"
+          Duplicate="0" Volume="18" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="561152" MonolithLength="36864"/>
+  <sample Root="72" LoKey="71" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C4_rr1.wav"
+          Duplicate="0" Volume="17" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="598016" MonolithLength="36864"/>
+  <sample Root="39" LoKey="39" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D#1_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="634880" MonolithLength="36864"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D#2_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="24698"
+          SampleRate="44100.0" MonolithOffset="671744" MonolithLength="28672"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D#4_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="28322"
+          SampleRate="44100.0" MonolithOffset="700416" MonolithLength="28672"/>
+  <sample Root="87" LoKey="85" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D#5_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="26568"
+          SampleRate="44100.0" MonolithOffset="729088" MonolithLength="28672"/>
+  <sample Root="38" LoKey="38" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D1_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="757760" MonolithLength="36864"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D2_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="794624" MonolithLength="36864"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D3_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="831488" MonolithLength="36864"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_D4_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="868352" MonolithLength="36864"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_E2_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="905216" MonolithLength="36864"/>
+  <sample Root="64" LoKey="63" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_E3_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="942080" MonolithLength="36864"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_E4_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="978944" MonolithLength="36864"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_E5_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="26568"
+          SampleRate="44100.0" MonolithOffset="1015808" MonolithLength="28672"/>
+  <sample Root="30" LoKey="0" HiKey="30" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F#0_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1044480" MonolithLength="36864"/>
+  <sample Root="42" LoKey="41" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F#1_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1081344" MonolithLength="36864"/>
+  <sample Root="54" LoKey="54" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F#2_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="27896"
+          SampleRate="44100.0" MonolithOffset="1118208" MonolithLength="28672"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F#3_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1146880" MonolithLength="36864"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F#4_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1183744" MonolithLength="36864"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F2_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1220608" MonolithLength="36864"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F3_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1257472" MonolithLength="36864"/>
+  <sample Root="89" LoKey="89" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_F5_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1294336" MonolithLength="36864"/>
+  <sample Root="32" LoKey="32" HiKey="32" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G#0_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1331200" MonolithLength="36864"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G#1_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1368064" MonolithLength="36864"/>
+  <sample Root="56" LoKey="56" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G#2_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1404928" MonolithLength="36864"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G#4_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1441792" MonolithLength="36864"/>
+  <sample Root="31" LoKey="31" HiKey="31" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G0_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1478656" MonolithLength="36864"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G1_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1515520" MonolithLength="36864"/>
+  <sample Root="67" LoKey="67" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G3_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1552384" MonolithLength="36864"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_G4_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="20000" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="1589248" MonolithLength="36864"/>
+</samplemap>

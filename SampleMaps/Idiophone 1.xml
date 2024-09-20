@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Idiophone 1" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="71" LoKey="69" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Hard Mallets/Vibes_hard_B3_v3_rr1_Main.wav"
+          Duplicate="0" SampleStartMod="106734" SampleEnd="629624" SampleRate="44100.0"
+          Volume="1" MonolithOffset="0" MonolithLength="630784"/>
+  <sample Root="74" LoKey="73" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Hard Mallets/Vibes_hard_D4_v3_rr1_Main.wav"
+          Duplicate="0" SampleStartMod="160959" SampleEnd="643877" SampleRate="44100.0"
+          Volume="1" MonolithOffset="630784" MonolithLength="647168"/>
+  <sample Root="64" LoKey="0" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Hard Mallets/Vibes_hard_E3_v3_rr1_Main.wav"
+          Duplicate="0" SampleStartMod="102062" SampleEnd="629306" SampleRate="44100.0"
+          Volume="1" MonolithOffset="1277952" MonolithLength="630784"/>
+  <sample Root="88" LoKey="79" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Hard Mallets/Vibes_hard_E5_v3_rr1_Main.wav"
+          Duplicate="0" SampleStartMod="95267" Volume="-3" SampleEnd="366782"
+          SampleRate="44100.0" MonolithOffset="1908736" MonolithLength="368640"/>
+  <sample Root="67" LoKey="66" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Hard Mallets/Vibes_hard_G3_v3_rr1_Main.wav"
+          Duplicate="0" SampleStartMod="114234" SampleEnd="743331" SampleRate="44100.0"
+          Volume="1" MonolithOffset="2277376" MonolithLength="745472"/>
+</samplemap>

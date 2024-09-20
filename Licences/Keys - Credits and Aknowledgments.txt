@@ -1,0 +1,77 @@
+Versilian Studios VSCL sample library: 
+
+The Versilian Community Sample Library is an open CC0 general-purpose sample library created by Versilian Studios LLC for the purpose of introducing a set of quality, publicly available samples suitable for use in software and media of all kinds. This library is intended to be a broader expansion to the VSCO 2 CE sample set.
+
+This collection is under a Creative Commons 0 license. Essentially it's Public Domain- you can do whatever you want with these sounds (even make commercial software), no royalties, no credit, no special terms.
+
+
+___________________________________________________________________
+
+jRhodes: 
+
+License for samples: CC BY-NC
+License for everything else: CC0
+License for musicians using this to make music: CC0
+
+Details:
+
+This sample set is provided free for use as a musical instrument.
+You can use the sounds in any way in your works as an artist,
+just as you could with a real instrument.
+
+To distribute the samples themselves, such as in an application, software instrument, 
+or as a sample set, the jRhodes samples are licensed under CC BY-NC 4.0. To view a
+copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0 .
+
+    BY: Credit must be given to the creator.
+    NC: Only noncommercial use of the work is permitted.
+
+To use the samples in a commercial product, please contact me and I will be happy to
+grant a license.
+
+jjlearman@gmail.com
+
+Control files and example clips are in the public domain using CC0:
+"To the extent possible under law, Jeffrey Learman has waived all copyright and related
+or neighboring rights to jRhodes control files and example clips.
+This work is published from: United States.
+
+
+______________________________________________________________________
+
+
+"Hohner Pianet T":
+
+Sound pack downloaded from Freesound
+----------------------------------------
+
+This pack of sounds contains sounds by the following user:
+ - tarane468 ( https://freesound.org/people/tarane468/ )
+
+You can find this pack online at: https://freesound.org/people/tarane468/packs/26137/
+
+
+Licenses in this pack (see below for individual sound licenses)
+---------------------------------------------------------------
+
+Creative Commons 0: http://creativecommons.org/publicdomain/zero/1.0/
+
+
+Sounds in this pack
+-------------------
+
+  * 465915__tarane468__001-pianet-t-a1.wav
+    * url: https://freesound.org/s/465915/
+    * license: Creative Commons 0
+  * 465914__tarane468__002-pianet-t-a2.wav
+    * url: https://freesound.org/s/465914/
+    * license: Creative Commons 0
+  * 465913__tarane468__003-pianet-t-a3.wav
+    * url: https://freesound.org/s/465913/
+    * license: Creative Commons 0
+  * 465912__tarane468__004-pianet-t-a4.wav
+    * url: https://freesound.org/s/465912/
+    * license: Creative Commons 0
+
+
+

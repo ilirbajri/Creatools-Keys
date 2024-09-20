@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="FM Wurli" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="45" LoKey="43" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_A0.wav"
+          Duplicate="0" SampleStartMod="294121" SampleEnd="777730" SampleRate="48000.0"
+          Volume="4" MonolithOffset="0" MonolithLength="778240"/>
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_A1.wav"
+          Duplicate="0" SampleStartMod="258175" SampleEnd="774526" SampleRate="48000.0"
+          Volume="4" MonolithOffset="778240" MonolithLength="778240"/>
+  <sample Root="69" LoKey="67" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_A2.wav"
+          Duplicate="0" SampleStartMod="223727" SampleEnd="770982" SampleRate="48000.0"
+          Volume="4" MonolithOffset="1556480" MonolithLength="774144"/>
+  <sample Root="81" LoKey="79" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_A3.wav"
+          Duplicate="0" SampleStartMod="173718" SampleEnd="752456" SampleRate="48000.0"
+          Volume="4" MonolithOffset="2330624" MonolithLength="753664"/>
+  <sample Root="36" LoKey="0" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_C0.wav"
+          Duplicate="0" SampleStartMod="353928" SampleEnd="786960" SampleRate="48000.0"
+          Volume="4" MonolithOffset="3084288" MonolithLength="790528"/>
+  <sample Root="48" LoKey="46" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_C1.wav"
+          Duplicate="0" SampleStartMod="297812" SampleEnd="787107" SampleRate="48000.0"
+          Volume="4" MonolithOffset="3874816" MonolithLength="790528"/>
+  <sample Root="60" LoKey="58" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_C2.wav"
+          Duplicate="0" SampleStartMod="255840" SampleEnd="771895" SampleRate="48000.0"
+          Volume="4" MonolithOffset="4665344" MonolithLength="774144"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_C3.wav"
+          Duplicate="0" SampleStartMod="220552" SampleEnd="677160" SampleRate="48000.0"
+          Volume="4" MonolithOffset="5439488" MonolithLength="679936"/>
+  <sample Root="84" LoKey="82" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_C4.wav"
+          Duplicate="0" SampleStartMod="178337" SampleEnd="714593" SampleRate="48000.0"
+          Volume="4" MonolithOffset="6119424" MonolithLength="716800"/>
+  <sample Root="39" LoKey="37" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_D#0.wav"
+          Duplicate="0" SampleStartMod="355843" SampleEnd="789413" SampleRate="48000.0"
+          Volume="4" MonolithOffset="6836224" MonolithLength="790528"/>
+  <sample Root="51" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_D#1.wav"
+          Duplicate="0" SampleStartMod="299567" SampleEnd="780087" SampleRate="48000.0"
+          Volume="4" MonolithOffset="7626752" MonolithLength="782336"/>
+  <sample Root="63" LoKey="61" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_D#2.wav"
+          Duplicate="0" SampleStartMod="255268" SampleEnd="775739" SampleRate="48000.0"
+          Volume="4" MonolithOffset="8409088" MonolithLength="778240"/>
+  <sample Root="75" LoKey="73" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_D#3.wav"
+          Duplicate="0" SampleStartMod="223976" SampleEnd="777940" SampleRate="48000.0"
+          Volume="4" MonolithOffset="9187328" MonolithLength="778240"/>
+  <sample Root="42" LoKey="40" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_F#0.wav"
+          Duplicate="0" SampleStartMod="353939" SampleEnd="783434" SampleRate="48000.0"
+          Volume="4" MonolithOffset="9965568" MonolithLength="786432"/>
+  <sample Root="54" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_F#1.wav"
+          Duplicate="0" SampleStartMod="296378" SampleEnd="772821" SampleRate="48000.0"
+          Volume="4" MonolithOffset="10752000" MonolithLength="774144"/>
+  <sample Root="66" LoKey="64" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_F#2.wav"
+          Duplicate="0" SampleStartMod="254357" SampleEnd="775338" SampleRate="48000.0"
+          Volume="4" MonolithOffset="11526144" MonolithLength="778240"/>
+  <sample Root="78" LoKey="76" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wurli/FM Wurli samples/FMWurli_F#3.wav"
+          Duplicate="0" SampleStartMod="221131" SampleEnd="777863" SampleRate="48000.0"
+          Volume="4" MonolithOffset="12304384" MonolithLength="778240"/>
+</samplemap>

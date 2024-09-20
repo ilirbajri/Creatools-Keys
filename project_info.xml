@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProjectSettings>
+  <Name value="Creatools Keys"/>
+  <Version value="1.0.0"/>
+  <Description value="keyboard rompler module"/>
+  <BundleIdentifier value="com.myCompany.product"/>
+  <PluginCode value="Abcd"/>
+  <EmbedAudioFiles value="Yes"/>
+  <SupportFullDynamicsHLAC value="1"/>
+  <AdditionalDspLibraries value=""/>
+  <OSXStaticLibs value=""/>
+  <WindowsStaticLibFolder value=""/>
+  <ExtraDefinitionsWindows value="HISE_DEACTIVATE_OVERLAY=1&#10;ENABLE_ALL_PEAK_METERS=1"/>
+  <ExtraDefinitionsOSX value=""/>
+  <ExtraDefinitionsIOS value=""/>
+  <AppGroupID value=""/>
+  <RedirectSampleFolder value=""/>
+  <AAXCategoryFX value="AAX_ePlugInCategory_Modulation"/>
+  <SupportMonoFX value="No"/>
+  <UseRawFrontend value="No"/>
+  <EmbedImageFiles value="Yes"/>
+  <ExtraDefinitionsLinux value=""/>
+  <EnableMidiInputFX value="No"/>
+  <VST3Support value="1"/>
+  <EnableMidiOut value="No"/>
+  <EnableSoundGeneratorsFX value="No"/>
+  <ExpansionType value="Disabled"/>
+  <EncryptionKey value=""/>
+  <LinkExpansionsToProject value="No"/>
+  <ReadOnlyFactoryPresets value="No"/>
+  <ForceStereoOutput value="No"/>
+  <AdminPermissions value="No"/>
+  <EmbedUserPresets value="Yes"/>
+  <EnableGlobalPreprocessor value="No"/>
+  <VST3Category value="Sampler"/>
+  <OverwriteOldUserPresets value="No"/>
+  <UseGlobalAppDataFolderWindows value="No"/>
+  <UseGlobalAppDataFolderMacOS value="No"/>
+  <DefaultUserPreset value="{PROJECT_FOLDER}\UserPresets\KEYS FACTORY\0 Performance\best of both worlds.preset&quot;"/>
+  <CompileWithPerfetto value="No"/>
+  <CompileWithDebugSymbols value="No"/>
+  <IncludeLorisInFrontend value="No"/>
+</ProjectSettings>

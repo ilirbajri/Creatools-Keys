@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="SS Pluck 1" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="54" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Releases/Normal/ZuckermannKitHarpsi_Normal_Rel_F#2_rr1.wav"
+          Duplicate="0" Volume="18" SampleStartMod="68972" LoopXFade="0"
+          LoopStart="318" SampleStart="318" SampleEnd="84926" SampleRate="44100.0"
+          Pan="-25" MonolithOffset="0" MonolithLength="86016"/>
+</samplemap>

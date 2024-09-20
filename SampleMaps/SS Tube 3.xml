@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="SS Tube 3" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="84" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_C5.wav"
+          Duplicate="0" SampleStartMod="299706" SampleEnd="614397" SampleRate="48000.0"
+          MonolithOffset="0" MonolithLength="614400"/>
+</samplemap>

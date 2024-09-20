@@ -1,0 +1,2418 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.gnu.org/licenses/gpl-3.0.en.html
+Subject: The GNU General Public License v3.0 - GNU Project - Free Software Foundation
+Date: Thu, 20 Apr 2023 21:20:45 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--8XPOPlybqlLrxfVUlRLXSni9dhDOd0gHvw3YUazM2n----"
+
+
+------MultipartBoundary--8XPOPlybqlLrxfVUlRLXSni9dhDOd0gHvw3YUazM2n----
+Content-Type: text/html
+Content-ID: <frame-8097251CC378E08E5B250100C19E1673@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.gnu.org/licenses/gpl-3.0.en.html
+
+<!DOCTYPE html><html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en"=
+ lang=3D"en"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css=
+-6edf4f9a-5394-497a-ac57-da016f5e027f@mhtml.blink" />
+
+<link rel=3D"author" href=3D"mailto:webmasters@gnu.org">
+<link rel=3D"icon" type=3D"image/png" href=3D"https://www.gnu.org/graphics/=
+gnu-head-mini.png">
+<meta name=3D"ICBM" content=3D"42.355469,-71.058627">
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://www.gnu.org/layo=
+ut.min.css" media=3D"screen">
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://www.gnu.org/prin=
+t.min.css" media=3D"print">
+
+
+
+<!-- Parent-Version: 1.97 -->
+<!-- This page is derived from /server/standards/boilerplate.html -->
+<title>The GNU General Public License v3.0
+- GNU Project - Free Software Foundation</title>
+
+<link rel=3D"alternate" type=3D"application/rdf+xml" href=3D"https://www.gn=
+u.org/licenses/gpl-3.0.rdf">=20
+<!-- begin translist file -->
+
+<link rel=3D"alternate" type=3D"text/html" href=3D"https://www.gnu.org/lice=
+nses/gpl-3.0.html" hreflang=3D"x-default">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"en" hreflang=3D"en" href=
+=3D"https://www.gnu.org/licenses/gpl-3.0.en.html" title=3D"English">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"ar" hreflang=3D"ar" href=
+=3D"https://www.gnu.org/licenses/gpl-3.0.ar.html" title=3D"=D8=A7=D9=84=D8=
+=B9=D8=B1=D8=A8=D9=8A=D8=A9">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"ca" hreflang=3D"ca" href=
+=3D"https://www.gnu.org/licenses/gpl-3.0.ca.html" title=3D"catal=C3=A0">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"de" hreflang=3D"de" href=
+=3D"https://www.gnu.org/licenses/gpl-3.0.de.html" title=3D"Deutsch">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"fr" hreflang=3D"fr" href=
+=3D"https://www.gnu.org/licenses/gpl-3.0.fr.html" title=3D"fran=C3=A7ais">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"ja" hreflang=3D"ja" href=
+=3D"https://www.gnu.org/licenses/gpl-3.0.ja.html" title=3D"=E6=97=A5=E6=9C=
+=AC=E8=AA=9E">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"nl" hreflang=3D"nl" href=
+=3D"https://www.gnu.org/licenses/gpl-3.0.nl.html" title=3D"Nederlands">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"pt-br" hreflang=3D"pt-br=
+" href=3D"https://www.gnu.org/licenses/gpl-3.0.pt-br.html" title=3D"portugu=
+=C3=AAs">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"ru" hreflang=3D"ru" href=
+=3D"https://www.gnu.org/licenses/gpl-3.0.ru.html" title=3D"=D1=80=D1=83=D1=
+=81=D1=81=D0=BA=D0=B8=D0=B9">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"tr" hreflang=3D"tr" href=
+=3D"https://www.gnu.org/licenses/gpl-3.0.tr.html" title=3D"T=C3=BCrk=C3=A7e=
+">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"uk" hreflang=3D"uk" href=
+=3D"https://www.gnu.org/licenses/gpl-3.0.uk.html" title=3D"=D1=83=D0=BA=D1=
+=80=D0=B0=D1=97=D0=BD=D1=81=D1=8C=D0=BA=D0=B0">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"zh-cn" hreflang=3D"zh-cn=
+" href=3D"https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" title=3D"=E7=AE=
+=80=E4=BD=93=E4=B8=AD=E6=96=87">
+<link rel=3D"alternate" type=3D"text/html" lang=3D"zh-tw" hreflang=3D"zh-tw=
+" href=3D"https://www.gnu.org/licenses/gpl-3.0.zh-tw.html" title=3D"=E7=B9=
+=81=E9=AB=94=E4=B8=AD=E6=96=87">
+<!-- end translist file -->
+
+<!-- start of server/banner.html -->
+<!-- start of head-include-2.html -->
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<!-- end of head-include-2.html -->
+
+</head>
+<body>
+<div class=3D"inner">
+<!-- start of server/body-include-1.html -->
+<div id=3D"top">
+<a class=3D"skip" href=3D"https://www.gnu.org/licenses/gpl-3.0.en.html#cont=
+ent"><b>Skip to main text</b></a>
+</div>
+
+<div id=3D"fsf-frame" role=3D"complementary">
+<form id=3D"fssbox" action=3D"https://my.fsf.org/civicrm/profile/create?res=
+et=3D1&amp;gid=3D31" method=3D"post">
+ <div>
+ =20
+ =20
+ =20
+ =20
+  <label for=3D"frmEmail">
+   <a href=3D"https://www.fsf.org/fss">Free Software Supporter</a>:
+  </label>
+  <input type=3D"text" id=3D"frmEmail" name=3D"email-Primary" size=3D"18" m=
+axlength=3D"80" value=3D"email address">
+  <input type=3D"submit" name=3D"_qf_Edit_next" value=3D"Sign up">
+ </div>
+</form>
+
+<div id=3D"join-fsf" class=3D"button"><a href=3D"https://www.fsf.org/associ=
+ate/support_freedom?referrer=3D4052">JOIN&nbsp;THE&nbsp;FSF</a>
+</div>
+</div>
+
+<div id=3D"header" role=3D"banner">
+<p id=3D"gnu-banner">
+ <a href=3D"https://www.gnu.org/">
+ <img src=3D"https://www.gnu.org/graphics/heckert_gnu.transp.small.png" hei=
+ght=3D"48" width=3D"49" alt=3D"&nbsp;[A GNU head]&nbsp;"><strong>GNU</stron=
+g> <span class=3D"hide">Operating System</span></a><br>
+ <small id=3D"fsf-support">Supported by the
+ <a href=3D"https://www.gnu.org/licenses/gpl-3.0.en.html#mission-statement"=
+>Free Software Foundation</a></small>
+</p>
+
+<div id=3D"switches">
+ <div id=3D"search-button" class=3D"switch">
+  <a href=3D"https://www.gnu.org/cgi-bin/estseek.cgi">
+  <img id=3D"search-icon" height=3D"30" width=3D"30" src=3D"https://www.gnu=
+.org/graphics/icons/search.png" title=3D"Site search" alt=3D"&nbsp;[Search =
+www.gnu.org]&nbsp;"></a>
+ </div>
+
+ <div id=3D"language-button" class=3D"switch">
+  <a href=3D"https://www.gnu.org/licenses/gpl-3.0.en.html#language-containe=
+r">
+  <img id=3D"language-icon" height=3D"30" width=3D"37" src=3D"https://www.g=
+nu.org/graphics/icons/translations.png" title=3D"Languages" alt=3D"&nbsp;[O=
+ther languages]&nbsp;"></a>
+ </div>
+
+</div>
+</div>
+<!-- end of server/body-include-1.html -->
+
+<!-- start of server/body-include-2 -->
+
+
+<div style=3D"clear: both"></div>
+
+<div id=3D"navigation" role=3D"navigation">
+ <a id=3D"more-links" href=3D"https://www.gnu.org/licenses/gpl-3.0.en.html#=
+navigation" title=3D"More...">
+   <span>Site navigation</span></a>
+ <a id=3D"less-links" href=3D"https://www.gnu.org/licenses/gpl-3.0.en.html#=
+content"><b>Skip</b></a>
+ <ul>
+
+   <li id=3D"tabAboutGNU"><a href=3D"https://www.gnu.org/gnu/gnu.html">ABOU=
+T&nbsp;GNU</a></li>
+
+
+  <li id=3D"tabPhilosophy"><a href=3D"https://www.gnu.org/philosophy/philos=
+ophy.html">PHILOSOPHY</a></li>
+
+
+  <li id=3D"tabLicenses" class=3D"active">
+     <span class=3D"no-display">=3D</span>=20
+    <a href=3D"https://www.gnu.org/licenses/licenses.html">LICENSES</a>
+    <span class=3D"gnun-split"></span>
+     <span class=3D"no-display">=3D</span>=20
+  </li>
+
+
+  <li id=3D"tabEducation"><a href=3D"https://www.gnu.org/education/educatio=
+n.html">EDUCATION</a></li>
+
+
+  <li id=3D"tabSoftware"><a href=3D"https://www.gnu.org/software/software.h=
+tml">SOFTWARE</a></li>
+
+
+  <li id=3D"tabDistros"><a href=3D"https://www.gnu.org/distros/distros.html=
+">DISTROS</a></li>
+
+
+  <li id=3D"tabDoc"><a href=3D"https://www.gnu.org/doc/doc.html">DOCS</a></=
+li>
+
+
+  <li id=3D"tabMalware"><a href=3D"https://www.gnu.org/proprietary/propriet=
+ary.html">MALWARE</a></li>
+
+
+  <li id=3D"tabHelp"><a href=3D"https://www.gnu.org/help/help.html">HELP&nb=
+sp;GNU</a></li>
+
+
+  <li id=3D"tabAV"><a href=3D"https://www.gnu.org/audio-video/audio-video.h=
+tml">AUDIO&nbsp;&amp;&nbsp;VIDEO</a></li>
+
+
+  <li id=3D"tabArt"><a href=3D"https://www.gnu.org/graphics/graphics.html">=
+GNU&nbsp;ART</a></li>
+
+
+  <li id=3D"tabFun"><a href=3D"https://www.gnu.org/fun/humor.html">FUN</a><=
+/li>
+
+
+  <li id=3D"tabPeople"><a href=3D"https://www.gnu.org/people/people.html">G=
+NU'S&nbsp;WHO?</a></li>
+
+  <li><a href=3D"https://directory.fsf.org/">SOFTWARE&nbsp;DIRECTORY</a></l=
+i>
+  <li><a href=3D"https://h-node.org/">HARDWARE</a></li>
+  <li><a href=3D"https://www.gnu.org/server/sitemap.html">SITEMAP</a></li>
+ </ul>
+ <div style=3D"clear: both"></div>
+</div><!-- /"navigation -->
+<!-- end of server/body-include-2 -->
+
+<div id=3D"content" role=3D"main">
+<!-- end of server/banner.html -->
+
+<div class=3D"reduced-width">
+<h2>GNU General Public License</h2>
+<hr class=3D"thin">
+
+<img class=3D"imgright" src=3D"https://www.gnu.org/graphics/gplv3-127x51.pn=
+g" alt=3D" [GPLv3 Logo] ">
+
+<ul>
+  <li><a href=3D"https://www.gnu.org/licenses/quick-guide-gplv3.html">A Qui=
+ck Guide to GPLv3</a></li>
+  <li><a href=3D"https://www.gnu.org/licenses/rms-why-gplv3.html">Why Upgra=
+de to GPLv3</a></li>
+  <li><a href=3D"https://www.gnu.org/licenses/gpl-faq.html">Frequently Aske=
+d Questions about
+       the GNU licenses</a></li>
+  <li><a href=3D"https://www.gnu.org/licenses/gpl-howto.html">How to use GN=
+U licenses for your
+       own software</a></li>
+  <li><a href=3D"https://www.gnu.org/licenses/translations.html">Translatio=
+ns
+       of the GPL</a></li>
+  <li>The GPL in other formats:=20
+       <a href=3D"https://www.gnu.org/licenses/gpl-3.0.txt">plain text</a>,
+       <a href=3D"https://www.gnu.org/licenses/gpl-3.0.texi">Texinfo</a>,
+       <a href=3D"https://www.gnu.org/licenses/gpl-3.0.tex">LaTeX</a>,
+       <a href=3D"https://www.gnu.org/licenses/gpl-3.0-standalone.html">sta=
+ndalone HTML</a>,
+       <a href=3D"https://www.gnu.org/licenses/gpl-3.0.odt">ODF</a>,
+      Docbook <a href=3D"https://www.gnu.org/licenses/gpl-3.0.dbk">v4</a> o=
+r
+       <a href=3D"https://www.gnu.org/licenses/gpl-3.0.xml">v5</a>,
+       <a href=3D"https://www.gnu.org/licenses/gpl-3.0.rst">reStructuredTex=
+t</a>,
+       <a href=3D"https://www.gnu.org/licenses/gpl-3.0.md">Markdown</a>, an=
+d
+       <a href=3D"https://www.gnu.org/licenses/gpl-3.0.rtf">RTF</a>.
+       </li>
+  <li><a href=3D"https://www.gnu.org/graphics/license-logos.html">GPLv3 log=
+os</a> to use
+       with your project</li>
+  <li><a href=3D"https://www.gnu.org/licenses/old-licenses/old-licenses.htm=
+l#GPL">Old
+       versions of the GNU GPL</a></li>
+  <li><a href=3D"https://www.gnu.org/licenses/gpl-violation.html">What to d=
+o if you see a
+       possible GPL violation</a></li>
+</ul>
+
+<hr class=3D"thin">
+
+<!-- The license text is in English and appears broken in RTL as
+     Arabic, Farsi, etc.  Explicitly set the direction to override the
+     one defined in the translation. -->
+<div dir=3D"ltr">
+<h3 style=3D"text-align: center;">GNU GENERAL PUBLIC LICENSE</h3>
+<p style=3D"text-align: center;">Version 3, 29 June 2007</p>
+
+<p>Copyright =C2=A9 2007 Free Software Foundation, Inc.
+ &lt;<a href=3D"https://fsf.org/">https://fsf.org/</a>&gt;</p><p>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.</p>
+
+<h4 id=3D"preamble">Preamble</h4>
+
+<p>The GNU General Public License is a free, copyleft license for
+software and other kinds of works.</p>
+
+<p>The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.  We, the Free Software Foundation, use the
+GNU General Public License for most of our software; it applies also to
+any other work released this way by its authors.  You can apply it to
+your programs, too.</p>
+
+<p>When we speak of free software, we are referring to freedom, not
+price.  Our General Public Licenses are designed to make sure that you
+have the freedom to distribute copies of free software (and charge for
+them if you wish), that you receive source code or can get it if you
+want it, that you can change the software or use pieces of it in new
+free programs, and that you know you can do these things.</p>
+
+<p>To protect your rights, we need to prevent others from denying you
+these rights or asking you to surrender the rights.  Therefore, you have
+certain responsibilities if you distribute copies of the software, or if
+you modify it: responsibilities to respect the freedom of others.</p>
+
+<p>For example, if you distribute copies of such a program, whether
+gratis or for a fee, you must pass on to the recipients the same
+freedoms that you received.  You must make sure that they, too, receive
+or can get the source code.  And you must show them these terms so they
+know their rights.</p>
+
+<p>Developers that use the GNU GPL protect your rights with two steps:
+(1) assert copyright on the software, and (2) offer you this License
+giving you legal permission to copy, distribute and/or modify it.</p>
+
+<p>For the developers' and authors' protection, the GPL clearly explains
+that there is no warranty for this free software.  For both users' and
+authors' sake, the GPL requires that modified versions be marked as
+changed, so that their problems will not be attributed erroneously to
+authors of previous versions.</p>
+
+<p>Some devices are designed to deny users access to install or run
+modified versions of the software inside them, although the manufacturer
+can do so.  This is fundamentally incompatible with the aim of
+protecting users' freedom to change the software.  The systematic
+pattern of such abuse occurs in the area of products for individuals to
+use, which is precisely where it is most unacceptable.  Therefore, we
+have designed this version of the GPL to prohibit the practice for those
+products.  If such problems arise substantially in other domains, we
+stand ready to extend this provision to those domains in future versions
+of the GPL, as needed to protect the freedom of users.</p>
+
+<p>Finally, every program is threatened constantly by software patents.
+States should not allow patents to restrict development and use of
+software on general-purpose computers, but in those that do, we wish to
+avoid the special danger that patents applied to a free program could
+make it effectively proprietary.  To prevent this, the GPL assures that
+patents cannot be used to render the program non-free.</p>
+
+<p>The precise terms and conditions for copying, distribution and
+modification follow.</p>
+
+<h4 id=3D"terms">TERMS AND CONDITIONS</h4>
+
+<h5 id=3D"section0">0. Definitions.</h5>
+
+<p>=E2=80=9CThis License=E2=80=9D refers to version 3 of the GNU General Pu=
+blic License.</p>
+
+<p>=E2=80=9CCopyright=E2=80=9D also means copyright-like laws that apply to=
+ other kinds of
+works, such as semiconductor masks.</p>
+=20
+<p>=E2=80=9CThe Program=E2=80=9D refers to any copyrightable work licensed =
+under this
+License.  Each licensee is addressed as =E2=80=9Cyou=E2=80=9D.  =E2=80=9CLi=
+censees=E2=80=9D and
+=E2=80=9Crecipients=E2=80=9D may be individuals or organizations.</p>
+
+<p>To =E2=80=9Cmodify=E2=80=9D a work means to copy from or adapt all or pa=
+rt of the work
+in a fashion requiring copyright permission, other than the making of an
+exact copy.  The resulting work is called a =E2=80=9Cmodified version=E2=80=
+=9D of the
+earlier work or a work =E2=80=9Cbased on=E2=80=9D the earlier work.</p>
+
+<p>A =E2=80=9Ccovered work=E2=80=9D means either the unmodified Program or =
+a work based
+on the Program.</p>
+
+<p>To =E2=80=9Cpropagate=E2=80=9D a work means to do anything with it that,=
+ without
+permission, would make you directly or secondarily liable for
+infringement under applicable copyright law, except executing it on a
+computer or modifying a private copy.  Propagation includes copying,
+distribution (with or without modification), making available to the
+public, and in some countries other activities as well.</p>
+
+<p>To =E2=80=9Cconvey=E2=80=9D a work means any kind of propagation that en=
+ables other
+parties to make or receive copies.  Mere interaction with a user through
+a computer network, with no transfer of a copy, is not conveying.</p>
+
+<p>An interactive user interface displays =E2=80=9CAppropriate Legal Notice=
+s=E2=80=9D
+to the extent that it includes a convenient and prominently visible
+feature that (1) displays an appropriate copyright notice, and (2)
+tells the user that there is no warranty for the work (except to the
+extent that warranties are provided), that licensees may convey the
+work under this License, and how to view a copy of this License.  If
+the interface presents a list of user commands or options, such as a
+menu, a prominent item in the list meets this criterion.</p>
+
+<h5 id=3D"section1">1. Source Code.</h5>
+
+<p>The =E2=80=9Csource code=E2=80=9D for a work means the preferred form of=
+ the work
+for making modifications to it.  =E2=80=9CObject code=E2=80=9D means any no=
+n-source
+form of a work.</p>
+
+<p>A =E2=80=9CStandard Interface=E2=80=9D means an interface that either is=
+ an official
+standard defined by a recognized standards body, or, in the case of
+interfaces specified for a particular programming language, one that
+is widely used among developers working in that language.</p>
+
+<p>The =E2=80=9CSystem Libraries=E2=80=9D of an executable work include any=
+thing, other
+than the work as a whole, that (a) is included in the normal form of
+packaging a Major Component, but which is not part of that Major
+Component, and (b) serves only to enable use of the work with that
+Major Component, or to implement a Standard Interface for which an
+implementation is available to the public in source code form.  A
+=E2=80=9CMajor Component=E2=80=9D, in this context, means a major essential=
+ component
+(kernel, window system, and so on) of the specific operating system
+(if any) on which the executable work runs, or a compiler used to
+produce the work, or an object code interpreter used to run it.</p>
+
+<p>The =E2=80=9CCorresponding Source=E2=80=9D for a work in object code for=
+m means all
+the source code needed to generate, install, and (for an executable
+work) run the object code and to modify the work, including scripts to
+control those activities.  However, it does not include the work's
+System Libraries, or general-purpose tools or generally available free
+programs which are used unmodified in performing those activities but
+which are not part of the work.  For example, Corresponding Source
+includes interface definition files associated with source files for
+the work, and the source code for shared libraries and dynamically
+linked subprograms that the work is specifically designed to require,
+such as by intimate data communication or control flow between those
+subprograms and other parts of the work.</p>
+
+<p>The Corresponding Source need not include anything that users
+can regenerate automatically from other parts of the Corresponding
+Source.</p>
+
+<p>The Corresponding Source for a work in source code form is that
+same work.</p>
+
+<h5 id=3D"section2">2. Basic Permissions.</h5>
+
+<p>All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided the stated
+conditions are met.  This License explicitly affirms your unlimited
+permission to run the unmodified Program.  The output from running a
+covered work is covered by this License only if the output, given its
+content, constitutes a covered work.  This License acknowledges your
+rights of fair use or other equivalent, as provided by copyright law.</p>
+
+<p>You may make, run and propagate covered works that you do not
+convey, without conditions so long as your license otherwise remains
+in force.  You may convey covered works to others for the sole purpose
+of having them make modifications exclusively for you, or provide you
+with facilities for running those works, provided that you comply with
+the terms of this License in conveying all material for which you do
+not control copyright.  Those thus making or running the covered works
+for you must do so exclusively on your behalf, under your direction
+and control, on terms that prohibit them from making any copies of
+your copyrighted material outside their relationship with you.</p>
+
+<p>Conveying under any other circumstances is permitted solely under
+the conditions stated below.  Sublicensing is not allowed; section 10
+makes it unnecessary.</p>
+
+<h5 id=3D"section3">3. Protecting Users' Legal Rights From Anti-Circumventi=
+on Law.</h5>
+
+<p>No covered work shall be deemed part of an effective technological
+measure under any applicable law fulfilling obligations under article
+11 of the WIPO copyright treaty adopted on 20 December 1996, or
+similar laws prohibiting or restricting circumvention of such
+measures.</p>
+
+<p>When you convey a covered work, you waive any legal power to forbid
+circumvention of technological measures to the extent such circumvention
+is effected by exercising rights under this License with respect to
+the covered work, and you disclaim any intention to limit operation or
+modification of the work as a means of enforcing, against the work's
+users, your or third parties' legal rights to forbid circumvention of
+technological measures.</p>
+
+<h5 id=3D"section4">4. Conveying Verbatim Copies.</h5>
+
+<p>You may convey verbatim copies of the Program's source code as you
+receive it, in any medium, provided that you conspicuously and
+appropriately publish on each copy an appropriate copyright notice;
+keep intact all notices stating that this License and any
+non-permissive terms added in accord with section 7 apply to the code;
+keep intact all notices of the absence of any warranty; and give all
+recipients a copy of this License along with the Program.</p>
+
+<p>You may charge any price or no price for each copy that you convey,
+and you may offer support or warranty protection for a fee.</p>
+
+<h5 id=3D"section5">5. Conveying Modified Source Versions.</h5>
+
+<p>You may convey a work based on the Program, or the modifications to
+produce it from the Program, in the form of source code under the
+terms of section 4, provided that you also meet all of these conditions:</p=
+>
+
+<ul>
+<li>a) The work must carry prominent notices stating that you modified
+    it, and giving a relevant date.</li>
+
+<li>b) The work must carry prominent notices stating that it is
+    released under this License and any conditions added under section
+    7.  This requirement modifies the requirement in section 4 to
+    =E2=80=9Ckeep intact all notices=E2=80=9D.</li>
+
+<li>c) You must license the entire work, as a whole, under this
+    License to anyone who comes into possession of a copy.  This
+    License will therefore apply, along with any applicable section 7
+    additional terms, to the whole of the work, and all its parts,
+    regardless of how they are packaged.  This License gives no
+    permission to license the work in any other way, but it does not
+    invalidate such permission if you have separately received it.</li>
+
+<li>d) If the work has interactive user interfaces, each must display
+    Appropriate Legal Notices; however, if the Program has interactive
+    interfaces that do not display Appropriate Legal Notices, your
+    work need not make them do so.</li>
+</ul>
+
+<p>A compilation of a covered work with other separate and independent
+works, which are not by their nature extensions of the covered work,
+and which are not combined with it such as to form a larger program,
+in or on a volume of a storage or distribution medium, is called an
+=E2=80=9Caggregate=E2=80=9D if the compilation and its resulting copyright =
+are not
+used to limit the access or legal rights of the compilation's users
+beyond what the individual works permit.  Inclusion of a covered work
+in an aggregate does not cause this License to apply to the other
+parts of the aggregate.</p>
+
+<h5 id=3D"section6">6. Conveying Non-Source Forms.</h5>
+
+<p>You may convey a covered work in object code form under the terms
+of sections 4 and 5, provided that you also convey the
+machine-readable Corresponding Source under the terms of this License,
+in one of these ways:</p>
+
+<ul>
+<li>a) Convey the object code in, or embodied in, a physical product
+    (including a physical distribution medium), accompanied by the
+    Corresponding Source fixed on a durable physical medium
+    customarily used for software interchange.</li>
+
+<li>b) Convey the object code in, or embodied in, a physical product
+    (including a physical distribution medium), accompanied by a
+    written offer, valid for at least three years and valid for as
+    long as you offer spare parts or customer support for that product
+    model, to give anyone who possesses the object code either (1) a
+    copy of the Corresponding Source for all the software in the
+    product that is covered by this License, on a durable physical
+    medium customarily used for software interchange, for a price no
+    more than your reasonable cost of physically performing this
+    conveying of source, or (2) access to copy the
+    Corresponding Source from a network server at no charge.</li>
+
+<li>c) Convey individual copies of the object code with a copy of the
+    written offer to provide the Corresponding Source.  This
+    alternative is allowed only occasionally and noncommercially, and
+    only if you received the object code with such an offer, in accord
+    with subsection 6b.</li>
+
+<li>d) Convey the object code by offering access from a designated
+    place (gratis or for a charge), and offer equivalent access to the
+    Corresponding Source in the same way through the same place at no
+    further charge.  You need not require recipients to copy the
+    Corresponding Source along with the object code.  If the place to
+    copy the object code is a network server, the Corresponding Source
+    may be on a different server (operated by you or a third party)
+    that supports equivalent copying facilities, provided you maintain
+    clear directions next to the object code saying where to find the
+    Corresponding Source.  Regardless of what server hosts the
+    Corresponding Source, you remain obligated to ensure that it is
+    available for as long as needed to satisfy these requirements.</li>
+
+<li>e) Convey the object code using peer-to-peer transmission, provided
+    you inform other peers where the object code and Corresponding
+    Source of the work are being offered to the general public at no
+    charge under subsection 6d.</li>
+</ul>
+
+<p>A separable portion of the object code, whose source code is excluded
+from the Corresponding Source as a System Library, need not be
+included in conveying the object code work.</p>
+
+<p>A =E2=80=9CUser Product=E2=80=9D is either (1) a =E2=80=9Cconsumer produ=
+ct=E2=80=9D, which means any
+tangible personal property which is normally used for personal, family,
+or household purposes, or (2) anything designed or sold for incorporation
+into a dwelling.  In determining whether a product is a consumer product,
+doubtful cases shall be resolved in favor of coverage.  For a particular
+product received by a particular user, =E2=80=9Cnormally used=E2=80=9D refe=
+rs to a
+typical or common use of that class of product, regardless of the status
+of the particular user or of the way in which the particular user
+actually uses, or expects or is expected to use, the product.  A product
+is a consumer product regardless of whether the product has substantial
+commercial, industrial or non-consumer uses, unless such uses represent
+the only significant mode of use of the product.</p>
+
+<p>=E2=80=9CInstallation Information=E2=80=9D for a User Product means any =
+methods,
+procedures, authorization keys, or other information required to install
+and execute modified versions of a covered work in that User Product from
+a modified version of its Corresponding Source.  The information must
+suffice to ensure that the continued functioning of the modified object
+code is in no case prevented or interfered with solely because
+modification has been made.</p>
+
+<p>If you convey an object code work under this section in, or with, or
+specifically for use in, a User Product, and the conveying occurs as
+part of a transaction in which the right of possession and use of the
+User Product is transferred to the recipient in perpetuity or for a
+fixed term (regardless of how the transaction is characterized), the
+Corresponding Source conveyed under this section must be accompanied
+by the Installation Information.  But this requirement does not apply
+if neither you nor any third party retains the ability to install
+modified object code on the User Product (for example, the work has
+been installed in ROM).</p>
+
+<p>The requirement to provide Installation Information does not include a
+requirement to continue to provide support service, warranty, or updates
+for a work that has been modified or installed by the recipient, or for
+the User Product in which it has been modified or installed.  Access to a
+network may be denied when the modification itself materially and
+adversely affects the operation of the network or violates the rules and
+protocols for communication across the network.</p>
+
+<p>Corresponding Source conveyed, and Installation Information provided,
+in accord with this section must be in a format that is publicly
+documented (and with an implementation available to the public in
+source code form), and must require no special password or key for
+unpacking, reading or copying.</p>
+
+<h5 id=3D"section7">7. Additional Terms.</h5>
+
+<p>=E2=80=9CAdditional permissions=E2=80=9D are terms that supplement the t=
+erms of this
+License by making exceptions from one or more of its conditions.
+Additional permissions that are applicable to the entire Program shall
+be treated as though they were included in this License, to the extent
+that they are valid under applicable law.  If additional permissions
+apply only to part of the Program, that part may be used separately
+under those permissions, but the entire Program remains governed by
+this License without regard to the additional permissions.</p>
+
+<p>When you convey a copy of a covered work, you may at your option
+remove any additional permissions from that copy, or from any part of
+it.  (Additional permissions may be written to require their own
+removal in certain cases when you modify the work.)  You may place
+additional permissions on material, added by you to a covered work,
+for which you have or can give appropriate copyright permission.</p>
+
+<p>Notwithstanding any other provision of this License, for material you
+add to a covered work, you may (if authorized by the copyright holders of
+that material) supplement the terms of this License with terms:</p>
+
+<ul>
+<li>a) Disclaiming warranty or limiting liability differently from the
+    terms of sections 15 and 16 of this License; or</li>
+
+<li>b) Requiring preservation of specified reasonable legal notices or
+    author attributions in that material or in the Appropriate Legal
+    Notices displayed by works containing it; or</li>
+
+<li>c) Prohibiting misrepresentation of the origin of that material, or
+    requiring that modified versions of such material be marked in
+    reasonable ways as different from the original version; or</li>
+
+<li>d) Limiting the use for publicity purposes of names of licensors or
+    authors of the material; or</li>
+
+<li>e) Declining to grant rights under trademark law for use of some
+    trade names, trademarks, or service marks; or</li>
+
+<li>f) Requiring indemnification of licensors and authors of that
+    material by anyone who conveys the material (or modified versions of
+    it) with contractual assumptions of liability to the recipient, for
+    any liability that these contractual assumptions directly impose on
+    those licensors and authors.</li>
+</ul>
+
+<p>All other non-permissive additional terms are considered =E2=80=9Cfurthe=
+r
+restrictions=E2=80=9D within the meaning of section 10.  If the Program as =
+you
+received it, or any part of it, contains a notice stating that it is
+governed by this License along with a term that is a further
+restriction, you may remove that term.  If a license document contains
+a further restriction but permits relicensing or conveying under this
+License, you may add to a covered work material governed by the terms
+of that license document, provided that the further restriction does
+not survive such relicensing or conveying.</p>
+
+<p>If you add terms to a covered work in accord with this section, you
+must place, in the relevant source files, a statement of the
+additional terms that apply to those files, or a notice indicating
+where to find the applicable terms.</p>
+
+<p>Additional terms, permissive or non-permissive, may be stated in the
+form of a separately written license, or stated as exceptions;
+the above requirements apply either way.</p>
+
+<h5 id=3D"section8">8. Termination.</h5>
+
+<p>You may not propagate or modify a covered work except as expressly
+provided under this License.  Any attempt otherwise to propagate or
+modify it is void, and will automatically terminate your rights under
+this License (including any patent licenses granted under the third
+paragraph of section 11).</p>
+
+<p>However, if you cease all violation of this License, then your
+license from a particular copyright holder is reinstated (a)
+provisionally, unless and until the copyright holder explicitly and
+finally terminates your license, and (b) permanently, if the copyright
+holder fails to notify you of the violation by some reasonable means
+prior to 60 days after the cessation.</p>
+
+<p>Moreover, your license from a particular copyright holder is
+reinstated permanently if the copyright holder notifies you of the
+violation by some reasonable means, this is the first time you have
+received notice of violation of this License (for any work) from that
+copyright holder, and you cure the violation prior to 30 days after
+your receipt of the notice.</p>
+
+<p>Termination of your rights under this section does not terminate the
+licenses of parties who have received copies or rights from you under
+this License.  If your rights have been terminated and not permanently
+reinstated, you do not qualify to receive new licenses for the same
+material under section 10.</p>
+
+<h5 id=3D"section9">9. Acceptance Not Required for Having Copies.</h5>
+
+<p>You are not required to accept this License in order to receive or
+run a copy of the Program.  Ancillary propagation of a covered work
+occurring solely as a consequence of using peer-to-peer transmission
+to receive a copy likewise does not require acceptance.  However,
+nothing other than this License grants you permission to propagate or
+modify any covered work.  These actions infringe copyright if you do
+not accept this License.  Therefore, by modifying or propagating a
+covered work, you indicate your acceptance of this License to do so.</p>
+
+<h5 id=3D"section10">10. Automatic Licensing of Downstream Recipients.</h5>
+
+<p>Each time you convey a covered work, the recipient automatically
+receives a license from the original licensors, to run, modify and
+propagate that work, subject to this License.  You are not responsible
+for enforcing compliance by third parties with this License.</p>
+
+<p>An =E2=80=9Centity transaction=E2=80=9D is a transaction transferring co=
+ntrol of an
+organization, or substantially all assets of one, or subdividing an
+organization, or merging organizations.  If propagation of a covered
+work results from an entity transaction, each party to that
+transaction who receives a copy of the work also receives whatever
+licenses to the work the party's predecessor in interest had or could
+give under the previous paragraph, plus a right to possession of the
+Corresponding Source of the work from the predecessor in interest, if
+the predecessor has it or can get it with reasonable efforts.</p>
+
+<p>You may not impose any further restrictions on the exercise of the
+rights granted or affirmed under this License.  For example, you may
+not impose a license fee, royalty, or other charge for exercise of
+rights granted under this License, and you may not initiate litigation
+(including a cross-claim or counterclaim in a lawsuit) alleging that
+any patent claim is infringed by making, using, selling, offering for
+sale, or importing the Program or any portion of it.</p>
+
+<h5 id=3D"section11">11. Patents.</h5>
+
+<p>A =E2=80=9Ccontributor=E2=80=9D is a copyright holder who authorizes use=
+ under this
+License of the Program or a work on which the Program is based.  The
+work thus licensed is called the contributor's =E2=80=9Ccontributor version=
+=E2=80=9D.</p>
+
+<p>A contributor's =E2=80=9Cessential patent claims=E2=80=9D are all patent=
+ claims
+owned or controlled by the contributor, whether already acquired or
+hereafter acquired, that would be infringed by some manner, permitted
+by this License, of making, using, or selling its contributor version,
+but do not include claims that would be infringed only as a
+consequence of further modification of the contributor version.  For
+purposes of this definition, =E2=80=9Ccontrol=E2=80=9D includes the right t=
+o grant
+patent sublicenses in a manner consistent with the requirements of
+this License.</p>
+
+<p>Each contributor grants you a non-exclusive, worldwide, royalty-free
+patent license under the contributor's essential patent claims, to
+make, use, sell, offer for sale, import and otherwise run, modify and
+propagate the contents of its contributor version.</p>
+
+<p>In the following three paragraphs, a =E2=80=9Cpatent license=E2=80=9D is=
+ any express
+agreement or commitment, however denominated, not to enforce a patent
+(such as an express permission to practice a patent or covenant not to
+sue for patent infringement).  To =E2=80=9Cgrant=E2=80=9D such a patent lic=
+ense to a
+party means to make such an agreement or commitment not to enforce a
+patent against the party.</p>
+
+<p>If you convey a covered work, knowingly relying on a patent license,
+and the Corresponding Source of the work is not available for anyone
+to copy, free of charge and under the terms of this License, through a
+publicly available network server or other readily accessible means,
+then you must either (1) cause the Corresponding Source to be so
+available, or (2) arrange to deprive yourself of the benefit of the
+patent license for this particular work, or (3) arrange, in a manner
+consistent with the requirements of this License, to extend the patent
+license to downstream recipients.  =E2=80=9CKnowingly relying=E2=80=9D mean=
+s you have
+actual knowledge that, but for the patent license, your conveying the
+covered work in a country, or your recipient's use of the covered work
+in a country, would infringe one or more identifiable patents in that
+country that you have reason to believe are valid.</p>
+ =20
+<p>If, pursuant to or in connection with a single transaction or
+arrangement, you convey, or propagate by procuring conveyance of, a
+covered work, and grant a patent license to some of the parties
+receiving the covered work authorizing them to use, propagate, modify
+or convey a specific copy of the covered work, then the patent license
+you grant is automatically extended to all recipients of the covered
+work and works based on it.</p>
+
+<p>A patent license is =E2=80=9Cdiscriminatory=E2=80=9D if it does not incl=
+ude within
+the scope of its coverage, prohibits the exercise of, or is
+conditioned on the non-exercise of one or more of the rights that are
+specifically granted under this License.  You may not convey a covered
+work if you are a party to an arrangement with a third party that is
+in the business of distributing software, under which you make payment
+to the third party based on the extent of your activity of conveying
+the work, and under which the third party grants, to any of the
+parties who would receive the covered work from you, a discriminatory
+patent license (a) in connection with copies of the covered work
+conveyed by you (or copies made from those copies), or (b) primarily
+for and in connection with specific products or compilations that
+contain the covered work, unless you entered into that arrangement,
+or that patent license was granted, prior to 28 March 2007.</p>
+
+<p>Nothing in this License shall be construed as excluding or limiting
+any implied license or other defenses to infringement that may
+otherwise be available to you under applicable patent law.</p>
+
+<h5 id=3D"section12">12. No Surrender of Others' Freedom.</h5>
+
+<p>If conditions are imposed on you (whether by court order, agreement or
+otherwise) that contradict the conditions of this License, they do not
+excuse you from the conditions of this License.  If you cannot convey a
+covered work so as to satisfy simultaneously your obligations under this
+License and any other pertinent obligations, then as a consequence you may
+not convey it at all.  For example, if you agree to terms that obligate you
+to collect a royalty for further conveying from those to whom you convey
+the Program, the only way you could satisfy both those terms and this
+License would be to refrain entirely from conveying the Program.</p>
+
+<h5 id=3D"section13">13. Use with the GNU Affero General Public License.</h=
+5>
+
+<p>Notwithstanding any other provision of this License, you have
+permission to link or combine any covered work with a work licensed
+under version 3 of the GNU Affero General Public License into a single
+combined work, and to convey the resulting work.  The terms of this
+License will continue to apply to the part which is the covered work,
+but the special requirements of the GNU Affero General Public License,
+section 13, concerning interaction through a network will apply to the
+combination as such.</p>
+
+<h5 id=3D"section14">14. Revised Versions of this License.</h5>
+
+<p>The Free Software Foundation may publish revised and/or new versions of
+the GNU General Public License from time to time.  Such new versions will
+be similar in spirit to the present version, but may differ in detail to
+address new problems or concerns.</p>
+
+<p>Each version is given a distinguishing version number.  If the
+Program specifies that a certain numbered version of the GNU General
+Public License =E2=80=9Cor any later version=E2=80=9D applies to it, you ha=
+ve the
+option of following the terms and conditions either of that numbered
+version or of any later version published by the Free Software
+Foundation.  If the Program does not specify a version number of the
+GNU General Public License, you may choose any version ever published
+by the Free Software Foundation.</p>
+
+<p>If the Program specifies that a proxy can decide which future
+versions of the GNU General Public License can be used, that proxy's
+public statement of acceptance of a version permanently authorizes you
+to choose that version for the Program.</p>
+
+<p>Later license versions may give you additional or different
+permissions.  However, no additional obligations are imposed on any
+author or copyright holder as a result of your choosing to follow a
+later version.</p>
+
+<h5 id=3D"section15">15. Disclaimer of Warranty.</h5>
+
+<p>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM =E2=80=9CAS IS=E2=80=9D WI=
+THOUT WARRANTY
+OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
+ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</p>
+
+<h5 id=3D"section16">16. Limitation of Liability.</h5>
+
+<p>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
+THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
+USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
+DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
+PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
+EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.</p>
+
+<h5 id=3D"section17">17. Interpretation of Sections 15 and 16.</h5>
+
+<p>If the disclaimer of warranty and limitation of liability provided
+above cannot be given local legal effect according to their terms,
+reviewing courts shall apply local law that most closely approximates
+an absolute waiver of all civil liability in connection with the
+Program, unless a warranty or assumption of liability accompanies a
+copy of the Program in return for a fee.</p>
+
+<p>END OF TERMS AND CONDITIONS</p>
+
+<h4 id=3D"howto">How to Apply These Terms to Your New Programs</h4>
+
+<p>If you develop a new program, and you want it to be of the greatest
+possible use to the public, the best way to achieve this is to make it
+free software which everyone can redistribute and change under these terms.=
+</p>
+
+<p>To do so, attach the following notices to the program.  It is safest
+to attach them to the start of each source file to most effectively
+state the exclusion of warranty; and each file should have at least
+the =E2=80=9Ccopyright=E2=80=9D line and a pointer to where the full notice=
+ is found.</p>
+
+<pre>    &lt;one line to give the program's name and a brief idea of what i=
+t does.&gt;
+    Copyright (C) &lt;year&gt;  &lt;name of author&gt;
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see &lt;https://www.gnu.org/licenses/=
+&gt;.
+</pre>
+
+<p>Also add information on how to contact you by electronic and paper mail.=
+</p>
+
+<p>If the program does terminal interaction, make it output a short
+notice like this when it starts in an interactive mode:</p>
+
+<pre>    &lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt=
+;
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show =
+w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details.
+</pre>
+
+<p>The hypothetical commands `show w' and `show c' should show the appropri=
+ate
+parts of the General Public License.  Of course, your program's commands
+might be different; for a GUI interface, you would use an =E2=80=9Cabout bo=
+x=E2=80=9D.</p>
+
+<p>You should also get your employer (if you work as a programmer) or schoo=
+l,
+if any, to sign a =E2=80=9Ccopyright disclaimer=E2=80=9D for the program, i=
+f necessary.
+For more information on this, and how to apply and follow the GNU GPL, see
+&lt;<a href=3D"https://www.gnu.org/licenses/">https://www.gnu.org/licenses/=
+</a>&gt;.</p>
+
+<p>The GNU General Public License does not permit incorporating your progra=
+m
+into proprietary programs.  If your program is a subroutine library, you
+may consider it more useful to permit linking proprietary applications with
+the library.  If this is what you want to do, use the GNU Lesser General
+Public License instead of this License.  But first, please read
+&lt;<a href=3D"https://www.gnu.org/licenses/why-not-lgpl.html">https://www.=
+gnu.org/licenses/why-not-lgpl.html</a>&gt;.</p>
+
+</div>
+</div>
+
+</div><!-- for id=3D"content", starts in the include above -->
+
+              <!-- begin server/footer-text.html -->
+
+
+
+
+
+<div style=3D"clear:both"></div>
+
+
+<div id=3D"language-container">
+ <div class=3D"backtotop">
+  <hr class=3D"no-display">
+  <a href=3D"https://www.gnu.org/licenses/gpl-3.0.en.html#top"><b>=E2=96=B2=
+</b></a>
+ </div>
+ <div id=3D"languages" class=3D"rounded-corners">
+  <div class=3D"button">
+   <a href=3D"https://www.gnu.org/licenses/gpl-3.0.en.html#top" class=3D"cl=
+ose"><span>BACK TO TOP</span></a>
+  </div>
+  <div id=3D"set-language" class=3D"button">
+   <span class=3D"gnun-split"></span>
+   <a href=3D"https://www.gnu.org/server/select-language.html?callback=3D/l=
+icenses/gpl-3.0.en.html" rel=3D"nofollow">
+   Set language
+   <span class=3D"gnun-split"></span>
+   </a>
+  </div>
+  <p>Available for this page:</p>
+  <div id=3D"translations">
+<p>
+<span dir=3D"ltr" class=3D"original">[en]&nbsp;<a lang=3D"en" hreflang=3D"e=
+n" href=3D"https://www.gnu.org/licenses/gpl-3.0.en.html">English</a> &nbsp;=
+</span>
+<span dir=3D"ltr">[ar]&nbsp;<a lang=3D"ar" hreflang=3D"ar" href=3D"https://=
+www.gnu.org/licenses/gpl-3.0.ar.html">=D8=A7=D9=84=D8=B9=D8=B1=D8=A8=D9=8A=
+=D8=A9</a> &nbsp;</span>
+<span dir=3D"ltr">[ca]&nbsp;<a lang=3D"ca" hreflang=3D"ca" href=3D"https://=
+www.gnu.org/licenses/gpl-3.0.ca.html">catal=C3=A0</a> &nbsp;</span>
+<span dir=3D"ltr">[de]&nbsp;<a lang=3D"de" hreflang=3D"de" href=3D"https://=
+www.gnu.org/licenses/gpl-3.0.de.html">Deutsch</a> &nbsp;</span>
+<span dir=3D"ltr">[fr]&nbsp;<a lang=3D"fr" hreflang=3D"fr" href=3D"https://=
+www.gnu.org/licenses/gpl-3.0.fr.html">fran=C3=A7ais</a> &nbsp;</span>
+<span dir=3D"ltr">[ja]&nbsp;<a lang=3D"ja" hreflang=3D"ja" href=3D"https://=
+www.gnu.org/licenses/gpl-3.0.ja.html">=E6=97=A5=E6=9C=AC=E8=AA=9E</a> &nbsp=
+;</span>
+<span dir=3D"ltr">[nl]&nbsp;<a lang=3D"nl" hreflang=3D"nl" href=3D"https://=
+www.gnu.org/licenses/gpl-3.0.nl.html">Nederlands</a> &nbsp;</span>
+<span dir=3D"ltr">[pt-br]&nbsp;<a lang=3D"pt-br" hreflang=3D"pt-br" href=3D=
+"https://www.gnu.org/licenses/gpl-3.0.pt-br.html">portugu=C3=AAs</a> &nbsp;=
+</span>
+<span dir=3D"ltr">[ru]&nbsp;<a lang=3D"ru" hreflang=3D"ru" href=3D"https://=
+www.gnu.org/licenses/gpl-3.0.ru.html">=D1=80=D1=83=D1=81=D1=81=D0=BA=D0=B8=
+=D0=B9</a> &nbsp;</span>
+<span dir=3D"ltr">[tr]&nbsp;<a lang=3D"tr" hreflang=3D"tr" href=3D"https://=
+www.gnu.org/licenses/gpl-3.0.tr.html">T=C3=BCrk=C3=A7e</a> &nbsp;</span>
+<span dir=3D"ltr">[uk]&nbsp;<a lang=3D"uk" hreflang=3D"uk" href=3D"https://=
+www.gnu.org/licenses/gpl-3.0.uk.html">=D1=83=D0=BA=D1=80=D0=B0=D1=97=D0=BD=
+=D1=81=D1=8C=D0=BA=D0=B0</a> &nbsp;</span>
+<span dir=3D"ltr">[zh-cn]&nbsp;<a lang=3D"zh-cn" hreflang=3D"zh-cn" href=3D=
+"https://www.gnu.org/licenses/gpl-3.0.zh-cn.html">=E7=AE=80=E4=BD=93=E4=B8=
+=AD=E6=96=87</a> &nbsp;</span>
+<span dir=3D"ltr">[zh-tw]&nbsp;<a lang=3D"zh-tw" hreflang=3D"zh-tw" href=3D=
+"https://www.gnu.org/licenses/gpl-3.0.zh-tw.html">=E7=B9=81=E9=AB=94=E4=B8=
+=AD=E6=96=87</a> &nbsp;</span>
+</p>
+</div>
+ </div>
+</div>
+
+<div id=3D"mission-statement" role=3D"complementary">
+ <div class=3D"backtotop">
+  <hr class=3D"no-display">
+  <a href=3D"https://www.gnu.org/licenses/gpl-3.0.en.html#header"><span>BAC=
+K TO TOP </span>=E2=96=B2</a>
+ </div>
+<div style=3D"clear: both"></div>
+<blockquote>
+<p style=3D"direction:ltr; text-align:left"><a href=3D"https://www.fsf.org/=
+"><img id=3D"fsfbanner" src=3D"https://www.gnu.org/graphics/fsf-logo-notext=
+-small.png" alt=3D"&nbsp;[FSF logo]&nbsp;" width=3D"75" height=3D"25"></a><=
+strong>
+=E2=80=9CThe Free Software Foundation (FSF) is a nonprofit with a worldwide
+mission to promote computer user freedom. We defend the rights of all
+software users.=E2=80=9D</strong></p>
+</blockquote>
+
+<div id=3D"support-the-fsf" class=3D"button">
+ <a class=3D"join" href=3D"https://www.fsf.org/associate/support_freedom?re=
+ferrer=3D4052">JOIN</a>
+ <a class=3D"donate" href=3D"https://donate.fsf.org/">DONATE</a>
+ <a class=3D"shop" href=3D"https://shop.fsf.org/">SHOP</a>
+</div>
+</div>
+<!-- end server/footer-text.html -->
+
+
+<div id=3D"footer" role=3D"contentinfo">
+<div class=3D"unprintable">
+
+<p>Please send general FSF &amp; GNU inquiries to
+<a href=3D"mailto:gnu@gnu.org">&lt;gnu@gnu.org&gt;</a>.
+There are also <a href=3D"https://www.gnu.org/contact/">other ways to conta=
+ct</a>
+the FSF.  Broken links and other corrections or suggestions can be sent
+to <a href=3D"mailto:webmasters@gnu.org">&lt;webmasters@gnu.org&gt;</a>.</p=
+>
+
+<p><!-- TRANSLATORS: Ignore the original text in this paragraph,
+        replace it with the translation of these two:
+
+        We work hard and do our best to provide accurate, good quality
+        translations.  However, we are not exempt from imperfection.
+        Please send your comments and general suggestions in this regard
+        to <a href=3D"mailto:web-translators@gnu.org">
+        &lt;web-translators@gnu.org&gt;</a>.</p>
+
+        <p>For information on coordinating and contributing translations of
+        our web pages, see <a
+        href=3D"/server/standards/README.translations.html">Translations
+        README</a>. -->
+Please see the <a href=3D"https://www.gnu.org/server/standards/README.trans=
+lations.html">Translations
+README</a> for information on coordinating and contributing translations
+of this article.</p>
+</div>
+
+<p>Copyright notice above.</p>
+
+<p>
+Everyone is permitted to copy and distribute verbatim copies of this licens=
+e
+document, but changing it is not allowed.
+</p>
+
+<!-- start of server/bottom-notes.html -->
+<div id=3D"bottom-notes" class=3D"unprintable">
+<p><a href=3D"https://www.fsf.org/about/dmca-notice">Copyright Infringement=
+ Notification</a></p>
+<div id=3D"generic">
+
+
+</div>
+</div>
+<!-- end of server/bottom-notes.html -->
+
+
+<p class=3D"unprintable">Updated:
+<!-- timestamp start -->
+$Date: 2022/01/10 19:53:27 $
+<!-- timestamp end -->
+</p>
+</div>
+</div><!-- for class=3D"inner", starts in the banner include -->
+
+
+</body></html>
+------MultipartBoundary--8XPOPlybqlLrxfVUlRLXSni9dhDOd0gHvw3YUazM2n----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6edf4f9a-5394-497a-ac57-da016f5e027f@mhtml.blink
+
+@charset "utf-8";
+
+@media (max-width: 30em) {
+  #content img.imgright { display: none; }
+}
+------MultipartBoundary--8XPOPlybqlLrxfVUlRLXSni9dhDOd0gHvw3YUazM2n----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.gnu.org/layout.min.css
+
+@charset "utf-8";
+
+html, body { font-size: 1em; text-align: left; text-decoration: none; color=
+: rgb(34, 34, 34); }
+
+html { background: rgb(228, 228, 228); }
+
+body { max-width: 74.92em; padding: 0px; margin: 0px auto; background: whit=
+e; border-width: 0px 0.1em 0.1em; border-right-style: solid; border-bottom-=
+style: solid; border-left-style: solid; border-right-color: rgb(187, 187, 1=
+87); border-bottom-color: rgb(187, 187, 187); border-left-color: rgb(187, 1=
+87, 187); border-image: initial; border-top-style: initial; border-top-colo=
+r: initial; box-shadow: rgb(187, 187, 187) 0px 0px 5px 5px; }
+
+div { padding: 0px; margin: 0px; }
+
+.inner { overflow: hidden; }
+
+#top { border-top: 3px solid rgb(163, 45, 42); }
+
+.skip, #fsf-frame { position: fixed; top: -1000px; }
+
+#header { text-align: center; display: table; width: 100%; }
+
+#gnu-banner { line-height: 1em; padding: 0.6em 0px; }
+
+#gnu-banner, #switches { display: table-cell; text-align: center; vertical-=
+align: middle; padding: 0.6em; }
+
+#gnu-banner img { vertical-align: middle; height: 3em; width: auto; margin-=
+right: 0.15em; }
+
+#gnu-banner strong { vertical-align: middle; font-weight: normal; font-size=
+: 2em; }
+
+#gnu-banner .hide, #fsf-support { display: none; }
+
+.switch { display: inline-block; vertical-align: middle; line-height: 1.1em=
+; padding: 0.2em 8%; }
+
+.switch img { height: 1.875em; width: auto; }
+
+@media (max-width: 20em) {
+  .switch { padding: 0.2em; }
+}
+
+#navigation, #edu-navigation { font-size: 0.94em; font-weight: bold; }
+
+#navigation ul { margin: 0px; }
+
+#edu-navigation { margin: 0px -3.2%; }
+
+#navigation ul, #edu-navigation { line-height: 2.125em; padding: 0px 2%; }
+
+#navigation li, #edu-navigation li { white-space: nowrap; display: inline; =
+line-height: 2.125em; margin: 0px 0.2em; }
+
+#navigation li a, #edu-navigation a { display: inline-block; line-height: 2=
+em; padding: 0px 0.6em; margin-top: 0.125em; }
+
+#more-links, #less-links { display: none; }
+
+#navigation a, #edu-navigation a { text-decoration: none; }
+
+#navigation { background: rgb(163, 45, 42); }
+
+#edu-navigation { background: rgb(238, 238, 238); }
+
+#navigation a { color: white; }
+
+#edu-navigation a { color: rgb(51, 51, 51); }
+
+#navigation li a:hover, #navigation li.active a { background: rgb(128, 3, 0=
+); }
+
+#edu-navigation li a:hover, #edu-navigation li.active a { background: white=
+; }
+
+#edu-navigation li.active a, #navigation li.active a { font-style: italic; =
+cursor: default; }
+
+#language-container .backtotop { margin: 0px 3%; }
+
+#language-container .backtotop a { margin-top: 0.5em; }
+
+#languages .close { display: none; }
+
+#languages { font-size: 0.94em; line-height: 1.2em; text-align: left; paddi=
+ng: 0.6em 3%; margin: 0px; background: rgb(244, 244, 244); border-top: 3px =
+solid rgb(221, 221, 221); }
+
+#set-language { margin-bottom: 0.2em; }
+
+#set-language + p { display: inline-block; font-size: 1em; margin: 0.45em 0=
+px 0px; }
+
+#translations { padding: 0.4em 0px; }
+
+#translations p { margin: 0px; }
+
+#translations span { display: inline-block; width: 10.5em; line-height: 2em=
+; }
+
+#translations span a { line-height: 1.9em; }
+
+#translations span.original { font-weight: bold; }
+
+@media (min-width: 0) {
+  html { font-size: 0.94em; }
+  #language-container { display: none; }
+  #language-container:target { display: block; }
+  .backtotop b { display: none; }
+  body { position: relative; }
+  #language-container { position: absolute; top: -3px; left: 0px; width: 10=
+0%; height: 100%; }
+  #language-container .backtotop a { position: absolute; width: 100%; heigh=
+t: 100%; background: transparent; border: 0px; margin-top: 0px; }
+  #languages .close { float: right; display: block; }
+  #languages .close span { display: none; }
+  #languages .close::after { content: "=E2=A8=89"; float: right; position: =
+relative; bottom: 0.1em; cursor: pointer; }
+  #languages { position: relative; margin-top: 4em; float: right; overflow:=
+ auto; max-width: 21em; text-align: left; padding: 0.5em 1em; background: w=
+hite; border: 2px solid rgb(187, 187, 187); box-shadow: rgba(153, 153, 153,=
+ 0.6) 0px 0px 1em 1em; }
+  #translations { columns: 10em 3; column-gap: 0px; }
+  #translations span { display: block; }
+  #translations span a { display: inline-block; }
+  #navigation, #edu-navigation { font-size: 1em; }
+  #navigation { height: 2.25em; overflow: hidden; }
+  #more-links { display: block; }
+  #navigation:target { height: auto; }
+  #navigation:target #more-links { display: none; }
+  #navigation:target #less-links { display: block; }
+  #more-links, #less-links { float: right; line-height: 2em; padding: 0px 0=
+.6em; background: rgb(128, 3, 0); margin: 0.125em 2% 0px; overflow: hidden;=
+ }
+  #more-links span, #less-links b { display: none; }
+  #more-links::after { content: "=E2=89=AB"; position: relative; bottom: 0.=
+05em; }
+  #less-links::after { content: "=E2=A8=89"; font-weight: bold; position: r=
+elative; bottom: 0.1em; }
+}
+
+@media (min-width: 34em) {
+  #languages { max-width: 36em; }
+}
+
+@media (min-width: 45em) {
+  html { font-size: 1em; }
+  #gnu-banner .hide { display: inline; vertical-align: middle; font-size: 2=
+em; }
+  #fsf-support { display: block; font-size: 0.8em; }
+  #fsf-support a { font-weight: bold; }
+  #languages { margin-top: 5.5em; }
+}
+
+@media (min-width: 57em) {
+  #fsf-frame { position: static; display: table; font-size: 0.875em; width:=
+ 94%; padding: 0.3em 3%; }
+  #fssbox, #join-fsf { display: table-cell; vertical-align: middle; }
+  #join-fsf { text-align: right; padding-left: 2em; }
+  #fssbox a { font-weight: bold; }
+  #fssbox div { display: inline; white-space: nowrap; }
+  #languages { margin-top: 8.5em; }
+}
+
+#content { padding: 1px 3% 0px; margin-bottom: 3em; }
+
+.breadcrumb { display: inline-block; vertical-align: top; line-height: 1.6e=
+m; margin: 0.5em 1.5em 0px 0px; text-align: left; }
+
+.breadcrumb img { height: 1.4em; width: auto; padding: 0px; }
+
+.breadcrumb a { white-space: nowrap; }
+
+address.byline { font-size: 1.06rem; font-style: italic; margin-bottom: 1.5=
+em; }
+
+.article { font-size: 1.06em; }
+
+.reduced-width { max-width: 100%; }
+
+@media (min-width: 51em) {
+  .reduced-width, .reduced-width + .translators-notes { width: 48em; margin=
+: 1.5em auto; }
+  .article.reduced-width { width: 45em; }
+}
+
+h3.footnote + ol, h3.footnote + ul { font-size: 1rem; }
+
+.back { line-height: 1.7em; text-align: right; font-weight: bold; margin: 2=
+em 2%; }
+
+.back a { display: inline-block; }
+
+.infobox { font-size: 0.94em; line-height: 1.3em; color: rgb(68, 68, 68); }
+
+.infobox p { margin: 0.4em 0px 0px; }
+
+.infobox hr { display: block; width: 15em; max-width: 100%; height: 1px; bo=
+rder: 0px; margin: 0px 0px 1em; }
+
+.infobox hr.full-width { width: 100%; margin: 1.5em 0px; }
+
+div.infobox { margin: 2.5em 0px 0px; }
+
+blockquote#fsfs p { padding: 0.3em 0px; font-size: 1.2em; }
+
+p#fsfs { margin: 2.5em 0px; }
+
+.trans-disclaimer { clear: both; text-align: center; font-style: italic; po=
+sition: relative; top: 0.4em; margin: 0.2em 0px 0px; }
+
+@media (max-width: 30em) {
+  .breadcrumb ~ .trans-disclaimer, .nav ~ .trans-disclaimer { text-align: r=
+ight; }
+}
+
+#outdated { clear: both; font-size: 0.94em; width: 48em; max-width: 85%; pa=
+dding: 0.5em 0.8em 0.7em; border: 0.2em solid rgb(255, 204, 119); margin: 0=
+.8em auto; }
+
+#outdated p { display: inline; margin: 0px; color: black; }
+
+#outdated a.original-link { font-weight: bold; color: brown; }
+
+#outdated p.hide { display: none; }
+
+@media (min-width: 50em) {
+  #outdated p.hide { display: inline; }
+}
+
+.translators-notes { font-size: 1rem; clear: left; line-height: 1.5em; marg=
+in-top: 2em; }
+
+.translators-notes hr { height: 1px; margin: 1.7em 0px 1.2em; border: 0px; =
+}
+
+.translators-notes p, .translators-notes ul, .translators-notes ol { margin=
+-bottom: 0px; }
+
+.translators-notes ol li { margin: 0.5em 1.1em 0px; }
+
+.edu-cases { font-size: 1.06em; width: 44.3em; max-width: 100%; margin: 2em=
+ auto; }
+
+.edu-cases ul, .edu-cases ol { margin: 1em 4%; }
+
+.edu-cases h3 { font-size: 1.3em; }
+
+#mission-statement { padding: 0.5em 3% 2em; background: white; border-top: =
+3px solid rgb(153, 153, 153); }
+
+#mission-statement blockquote { font-size: 0.94em; font-weight: bold; font-=
+style: italic; margin: 0.5em 3% 0.8em; }
+
+#mission-statement p { margin: 0px; }
+
+#mission-statement img { float: left; height: 2em; margin: 0.5em; }
+
+#support-the-fsf { clear: both; text-align: center; }
+
+#footer { font-size: 0.875em; padding: 1.5em 3%; color: rgb(51, 51, 51); ba=
+ckground: rgb(244, 244, 244); border-top: 3px solid rgb(153, 153, 153); }
+
+#footer p, #bottom-notes { line-height: 1.3em; margin: 0px; }
+
+.unprintable { margin-bottom: 0.7em; }
+
+.translators-credits { margin: 0.7em 0px; }
+
+#footer p.unprintable, #generic p { margin-top: 0.7em; }
+
+small { font-size: 0.875em; }
+
+strong { font-style: inherit; font-weight: bold; }
+
+em, cite, var, dfn { font-style: italic; font-weight: inherit; }
+
+em i, em cite, cite i, cite em, i em, i cite, i i { font-style: normal; }
+
+acronym, abbr { font-variant: normal; text-decoration: none; border-bottom:=
+ 1px dotted rgb(0, 0, 0); cursor: help; }
+
+code, samp, kbd { font-family: monospace; padding: 0px 0.2em; }
+
+code, kbd { background: rgb(242, 242, 242); }
+
+kbd { color: rgb(117, 43, 27); }
+
+ins { text-decoration: none; }
+
+del { text-decoration: line-through; }
+
+sup { vertical-align: super; }
+
+sub { vertical-align: sub; }
+
+.center, .c { text-align: center; }
+
+.nocenter { text-align: left; }
+
+.right-align { text-align: right; margin: 2em 0px 2em 10%; }
+
+.inline-list li { display: inline; }
+
+.no-bullet li { list-style: none; }
+
+.no-display { display: none; }
+
+.clear { clear: both; }
+
+p, pre, address { line-height: 1.5em; margin: 1em 0px; }
+
+blockquote { margin: 1em 3%; }
+
+p, blockquote { padding: 0px; }
+
+pre { padding: 0px 0px 0.3em; overflow: auto; }
+
+h1 { font-size: 2.375em; margin: 0.7em 0px; }
+
+h2 { font-size: 2em; margin: 0.7em 0px; }
+
+.article h2 { font-size: 1.89em; }
+
+h3 { font-size: 1.5em; margin: 1.2em 0px 0.8em; }
+
+.article h3 { font-size: 1.41em; }
+
+h4 { font-size: 1.25em; margin: 1.2em 0px 0.85em; }
+
+.article h4 { font-size: 1.18em; }
+
+h5 { font-size: 1.125em; margin: 1.3em 0px 0.9em; }
+
+.article h5 { font-size: 1.06em; }
+
+h6 { font-size: 1em; margin: 1.3em 0px 1em; }
+
+h2 { clear: both; }
+
+h1, h2, h3, h4 { font-weight: bold; }
+
+h1, h2, h3 { padding: 0.2em 0px; }
+
+h3 { color: rgb(51, 51, 51); }
+
+h4 { color: rgb(80, 80, 80); }
+
+h5, h6 { font-weight: normal; font-style: italic; }
+
+.infobox h3, h3.footnote, .translators-notes h3, .translators-notes > b, .t=
+ranslators-notes > strong { font-size: 1.19rem; }
+
+.translators-notes > b, .translators-notes > strong { margin: 1.2em 0px 0.8=
+em; color: rgb(51, 51, 51); }
+
+.big-section { clear: left; float: left; }
+
+.big-section h3 { display: inline-block; font-size: 1.75em; margin: 1em 0.3=
+em 0.5em 0px; color: black; border-top: 0.12em solid rgb(231, 76, 60); bord=
+er-bottom: 0.12em solid rgb(231, 76, 60); }
+
+.article .big-section h3 { font-size: 1.65em; }
+
+.big-subsection { margin: 1.5em 0px; }
+
+.big-subsection h4 { display: inline; font-size: 1.5em; margin-right: 0.3em=
+; color: black; }
+
+.article .big-subsection h4 { font-size: 1.41em; }
+
+.big-subsection { line-height: 2em; }
+
+.big-subsection h4 { line-height: 1.2em; }
+
+.anchor-reference-id { font-weight: normal; font-size: 0.8125em; }
+
+@media (max-width: 30em) {
+  h1 { font-size: 2em; }
+  h2 { font-size: 1.73em; }
+  .article h2 { font-size: 1.63em; }
+  h3 { font-size: 1.4em; }
+  .article h3 { font-size: 1.32em; }
+  h4 { font-size: 1.2em; }
+  .article h4 { font-size: 1.13em; }
+  h5 { font-size: 1.07em; }
+  .big-section h3 { font-size: 1.53em; }
+  .article .big-section h3 { font-size: 1.44em; }
+  .big-subsection h4 { font-size: 1.4em; }
+  .article .big-subsection h4 { font-size: 1.32em; }
+}
+
+ul, ol, li, dl, dd, dt { padding: 0px; }
+
+li, dt, dd { line-height: 1.5em; }
+
+ul li { list-style: outside square; }
+
+ul ul li, ol ul li { list-style: circle; }
+
+ol li, #content ul li ol li { list-style: outside decimal; }
+
+ul, ol { margin: 1em 1.5%; }
+
+ol li { margin: 1em 0px 0px 1em; }
+
+ul li, ul ol li { margin: 0.5em 0px 0px 1em; }
+
+ul ul li { margin-top: 0.3em; }
+
+ul li p, ul li pre, ul li blockquote, table li { margin-top: 0.3em; margin-=
+bottom: 0.3em; }
+
+ul ul, ol ul, table ul { margin: 0px 1.5%; }
+
+ul.para > li { margin-top: 1em; }
+
+.date-tag { padding: 0.2em 0.5em; color: rgb(80, 80, 80); background: rgb(2=
+42, 242, 242); border-radius: 0.25em; }
+
+ul.blurbs li { margin-top: 1em; }
+
+ul.blurbs ul li, ul.blurbs ol li, ul.blurbs dl li { margin-top: 0.5em; }
+
+ul.blurbs > li { list-style: none; }
+
+.blurbs .date-tag { position: relative; right: 2em; }
+
+@media (max-width: 30em) {
+  .blurbs .date-tag { right: 1.5em; }
+}
+
+dl { margin: 1.5em 0px 0px; }
+
+dt { font-weight: bold; color: rgb(51, 51, 51); margin: 1em 0px; }
+
+dl dd { margin: 1em 3% 1.5em; }
+
+dl.compact { margin: 0.5em 0px; }
+
+dl.compact dt { font-weight: normal; font-style: italic; margin: 0.5em 0px =
+0px; }
+
+dl.compact dd { margin: 0.3em 3% 0px; }
+
+dl.compact dd p { margin: 0.3em 0px 0px; }
+
+dl.compact dd ul { margin: 0.3em 1.5% 0px; }
+
+hr { display: block; margin: 1.2em 0px; color: rgb(153, 153, 153); backgrou=
+nd: rgb(153, 153, 153); }
+
+hr.separator { height: 0.3em; border: 0px; }
+
+.thin { clear: both; height: 2px; margin: 1.5em 0px; border: 0px; backgroun=
+d: rgb(187, 187, 187); }
+
+.column-limit { height: 0.4em; width: 15%; min-width: 7em; margin: 2em auto=
+; border: 0px; background: linear-gradient(to right, white, rgb(187, 187, 1=
+87), white) rgb(187, 187, 187); }
+
+table { border-collapse: collapse; border-spacing: 0px; margin: 1.5em 0px; =
+}
+
+caption { font-style: inherit; font-weight: inherit; text-align: center; ma=
+rgin-bottom: 0.5em; }
+
+th, td { border: 1px solid rgb(187, 187, 187); padding: 0.5em; margin: 0px;=
+ }
+
+th { font-weight: bold; text-align: center; }
+
+th, td, td p, td li { line-height: 1.3em; }
+
+.listing { width: 100%; display: block; overflow-x: auto; border: 0.2em sol=
+id rgb(204, 204, 204); }
+
+.listing th { font-weight: normal; padding: 0.7em; color: black; background=
+: rgb(255, 241, 192); border-width: 1px 1px 0px; border-top-style: solid; b=
+order-right-style: solid; border-left-style: solid; border-top-color: rgb(1=
+53, 153, 153); border-right-color: rgb(153, 153, 153); border-left-color: r=
+gb(153, 153, 153); border-image: initial; border-bottom-style: initial; bor=
+der-bottom-color: initial; }
+
+.listing td { padding: 1em; text-align: center; border: 1px solid rgb(153, =
+153, 153); }
+
+.listing img { vertical-align: middle; }
+
+.listing .odd { background: transparent; }
+
+.listing .even { background: rgb(244, 244, 244); }
+
+.columns p.inline-block { display: inline-block; margin: 0px; }
+
+.columns > :first-child { margin-top: 0px; }
+
+.columns > :last-child { margin-bottom: 0px; }
+
+@media (min-width: 55em) {
+  .columns { column-count: 2; column-gap: 1.5em; }
+}
+
+img { vertical-align: top; border: 0px; }
+
+.imgright, .imgleft { max-width: 100%; }
+
+.imgright { float: right; margin: 0.3em 0px 1em 2em; }
+
+.imgleft { float: left; margin: 0.3em 2em 1em 0px; }
+
+.narrow { width: 15em; }
+
+.medium { width: 20em; }
+
+.wide { width: 27em; }
+
+.pict { max-width: 100%; margin: 1em auto; }
+
+.pict img { width: 100%; height: auto; }
+
+.pict p { text-align: center; font-style: italic; font-size: 0.875em; margi=
+n-top: 0.5em; }
+
+@media (min-width: 45em) {
+  .pict.narrow { max-width: 45%; float: right; margin: 0.3em 0px 1em 2em; }
+}
+
+@media (min-width: 50em) {
+  .pict.medium { max-width: 45%; float: right; margin: 0.3em 0px 1em 2em; }
+}
+
+@media (min-width: 57em) {
+  .pict.wide { max-width: 45%; float: right; margin: 0.3em 0px 1em 2em; }
+}
+
+.comment, .introduction { font-style: italic; margin: 1.5em 6%; }
+
+.article .comment { font-size: 0.94em; }
+
+.comment cite, .introduction cite { font-style: normal; }
+
+.epigraph { margin: 2em 0px 2em 10%; color: rgb(68, 68, 68); }
+
+@media (max-width: 30em) {
+  .comment, .introduction { margin: 1.5em 0px; }
+}
+
+.emph-box *, .highlight-para *, .lyrics *, .announcement *, .important * { =
+margin-bottom: 0px; }
+
+.announcement, .important { padding: 0.4em 1em; margin-top: 1.5em; margin-b=
+ottom: 1.5em; }
+
+.announcement blockquote { margin: 0px; }
+
+.announcement p, .important p { padding-top: 0.4em; padding-bottom: 0.5em; =
+margin: 0px; }
+
+.announcement > ul, .important > ul { margin: 0px; }
+
+.announcement li, .important li { padding-top: 0.2em; padding-bottom: 0.3em=
+; margin-top: 0px; }
+
+.announcement h3, .important h3 { font-size: 1.25em; margin: 0.35em 0px 0.4=
+em; }
+
+.announcement { border-left: 0.4em solid rgb(85, 204, 85); }
+
+.important { border-left: 0.4em solid rgb(255, 204, 119); }
+
+@media (min-width: 48em) {
+  .announcement, .important { padding: 0.4em 1.5em; }
+}
+
+blockquote.highlight-para, blockquote.emph-box, div.highlight-para, div.emp=
+h-box { padding: 0px 1.2em 1.1em; margin: 2em 0px; }
+
+p.highlight-para, p.highlight, p.emph-box, pre.emph-box { padding: 0.7em 1.=
+2em 0.8em; }
+
+.emph-box h3, .highlight-para h3, .lyrics h3 { font-size: 1.25em; margin: 0=
+.8em 0px; }
+
+.emph-box h4, .highlight-para h4, .lyrics h4 { font-size: 1em; }
+
+pre.emph-box code, pre.emph-box kbd, pre.emph-box samp, p.emph-box code, p.=
+emph-box kbd, p.emph-box samp { padding: 0px; }
+
+.highlight-para, .highlight { background: rgb(255, 245, 212); }
+
+span.highlight { background: rgb(255, 241, 192); }
+
+.highlight-para { border-top: 0.1em solid rgb(255, 204, 119); border-bottom=
+: 0.1em solid rgb(255, 204, 119); }
+
+.emph-box { background: rgb(242, 242, 242); border: 0.1em solid rgb(187, 18=
+7, 187); }
+
+.lyrics { display: inline-block; max-width: 80%; font-style: italic; paddin=
+g: 0.5em 2em 1.7em; background: rgb(247, 247, 247); border: 0.1em solid rgb=
+(187, 187, 187); border-radius: 0.5em; margin: 0.5em 0px 0.5em 6%; }
+
+@media (max-width: 45em) {
+  .lyrics { box-sizing: border-box; max-width: 100%; padding: 0px 1em 1.2em=
+; margin-left: 0px; }
+}
+
+.note, .edu-note { margin: 2em auto; }
+
+.edu-note { width: 37.7em; max-width: 100%; }
+
+.edu-note p { font-style: italic; padding: 0.7em 1em 0.8em; margin: 0px; }
+
+.note { width: 45em; max-width: 82%; padding: 0.3em 3% 0.4em; background: w=
+hite; }
+
+.note p { padding: 0.4em; margin: 0px; }
+
+.note, .edu-note p { border: 0.15em solid rgb(0, 170, 170); }
+
+.edu-note p { border-radius: 0.5em; }
+
+.summary, .toc { width: 45em; text-align: center; padding: 1.3em 3%; margin=
+: 2em auto; background: rgb(244, 244, 244); }
+
+.summary { max-width: 82%; }
+
+.toc { max-width: 94%; }
+
+.summary > ul, .toc > ul { text-align: left; font-size: 0.94rem; display: i=
+nline-block; margin: 0px 0.5em 0px 0px; }
+
+.summary ul ul, .toc ul ul { margin: 0px; }
+
+.summary li, .toc li { margin: 0px 0px 0px 1.5em; padding: 0.1em 0px; }
+
+.summary h3, .toc h3 { font-size: 1.125em; margin-top: 0.3em; }
+
+.summary h4, .toc h4 { text-align: left; font-size: 1em; }
+
+.summary a, .toc a { display: block; padding: 0.2em 0px; }
+
+.toc-inline { font-size: 0.94em; text-align: center; padding: 0px 3%; margi=
+n: 2em auto; }
+
+.toc-inline a { display: inline-block; padding: 0.1em 0.4em; margin: 0.3em;=
+ background: rgb(242, 242, 242); border: 0.1em solid rgb(187, 187, 187); }
+
+.toc-inline h3 { display: none; }
+
+.toc-inline h4 { font-size: 1em; margin: 1em 0px 0.2em; }
+
+.toc-inline h4 a { border: 0px; }
+
+.toc-inline ul, .toc-inline li { display: inline; margin: 0px; }
+
+@media (max-width: 30em) {
+  .note, .summary { max-width: 92%; }
+  #content .note { margin-left: auto; margin-right: auto; }
+}
+
+@media (min-width: 48em) {
+  .note, .summary { clear: right; float: right; width: 20em; max-width: 40%=
+; margin: 0.5em 0px 1em 2em; }
+  #content .note { margin-right: 0px; margin-left: 2em; }
+  .summary { padding: 1em 0.8em; }
+  .note { padding: 0.3em 0.8em 0.4em; }
+}
+
+div.toc .malfunctions h3, div.toc .companies h3 { padding: 0px; margin: 0px=
+ 0px 0.5em; }
+
+#content .malfunctions, #content .companies { display: inline-block; paddin=
+g: 0.5em 0.5em 0px; margin: 0px; }
+
+#content .toc .malfunctions { max-width: 29em; }
+
+#content .toc .companies { max-width: 14em; }
+
+#content .malfunctions ul, #content .companies ul { padding: 0px; margin: 0=
+px; }
+
+#content div.toc .malfunctions li, #content div.toc .companies li { padding=
+: 0px 0px 0.5em; margin: 0px; }
+
+.malfunctions a + br, .summary a + br { display: none; }
+
+#content div.toc.c { background: 0px center; }
+
+#content div.toc.c h3 { display: none; }
+
+#content div.toc.c a { display: inline-block; padding: 0.1em 0.4em; margin:=
+ 0.3em; background: rgb(242, 242, 242); border: 0.1em solid rgb(187, 187, 1=
+87); }
+
+#content div.toc.c a:hover { background: white; }
+
+#content #video-container { width: 37.7em; margin: 2em auto; }
+
+#video-container .emph-box { font-size: smaller; margin-top: 0px; }
+
+div.package-list a, div.package-list a:visited { margin-bottom: 0.1em; }
+
+@media (min-width: 48em) {
+  #content #dynamic-duo { width: 19.2em; max-width: 38%; margin-bottom: 1.5=
+em; }
+  #dynamic-duo p { font-size: 0.875em; }
+}
+
+a[href] { text-decoration-color: rgb(187, 187, 187); }
+
+a[href]:link { color: rgb(0, 68, 153); }
+
+a[href]:visited { color: rgb(85, 0, 51); }
+
+a[href]:active { text-decoration: none; }
+
+#gnu-banner > a { color: rgb(51, 51, 51); text-decoration: none; }
+
+#gnu-banner > a strong { color: rgb(163, 45, 42); }
+
+#fsf-support, #fsf-support a[href], #fssbox a[href], .breadcrumb a[href], .=
+back a[href], .anchor-reference-id a[href] { color: rgb(75, 75, 75); }
+
+#translations a[href], .trans-disclaimer a[href], .toc a[href], .toc-inline=
+ a[href], .summary a[href], .package-list a[href] { color: rgb(0, 68, 153);=
+ text-decoration: none; }
+
+a[href]:hover, #fsf-support a[href]:hover, #fssbox a[href]:hover { color: b=
+lack; text-decoration: none; }
+
+#translations a[href]:hover { background: rgb(235, 235, 255); }
+
+.toc a[href]:hover, .summary a[href]:hover, .toc-inline a[href]:hover, .pac=
+kage-list a[href]:hover { background: white; }
+
+form, legend, fieldset, textarea { padding: 0px; }
+
+form, legend, button, textarea, input { margin: 0px; }
+
+fieldset { border: 0px; margin: 1em 0px; }
+
+input, button, textarea, select, optgroup, option { font-family: inherit; f=
+ont-size: inherit; font-style: normal; font-weight: normal; }
+
+button, select, input { padding: 0.2em 0.3em; }
+
+.button a, .switch a { display: inline-block; }
+
+#fssbox input, .button a { line-height: 1.1em; padding: 0.4em 0.6em; }
+
+#fssbox input[type=3D"text"] { height: 1.1em; }
+
+#fssbox input[type=3D"submit"], .button a, .switch a { font-weight: bold; m=
+argin: 0px; }
+
+#support-the-fsf a { padding: 0.6em 1em; margin: 1em 1.5em 0px; }
+
+.backtotop a { float: right; position: relative; bottom: 1em; font-size: 1.=
+2em; font-weight: bold; line-height: 1em; padding: 0.2em 0.6em 0.5em; margi=
+n: 0px 1em; }
+
+.backtotop a span { display: none; }
+
+.inner > .backtotop { margin-right: 3%; }
+
+.button a[href], .backtotop a[href] { text-decoration: none; }
+
+.button a[href], .backtotop a[href] { color: rgb(64, 64, 187); background: =
+white; border: 0.1rem solid rgb(153, 153, 153); }
+
+.button a[href]:hover, .backtotop a[href]:hover { color: rgb(51, 51, 204); =
+background: rgb(235, 235, 255); border-color: rgb(85, 85, 187); }
+
+.switch a:hover { opacity: 0.8; }
+
+#join-fsf a, #support-the-fsf a.join { color: rgb(163, 45, 42); border-colo=
+r: rgb(163, 45, 42); }
+
+#join-fsf a:hover, #support-the-fsf a.join:hover { color: rgb(150, 4, 0); b=
+ackground: rgb(246, 229, 225); }
+
+#support-the-fsf a.donate { color: rgb(64, 64, 187); border-color: rgb(85, =
+85, 187); }
+
+#support-the-fsf a.donate:hover { color: rgb(51, 51, 204); background: rgb(=
+235, 235, 255); }
+
+#support-the-fsf a.shop { color: rgb(0, 99, 99); border-color: rgb(0, 136, =
+136); }
+
+#support-the-fsf a.shop:hover { color: rgb(0, 95, 95); background: rgb(221,=
+ 255, 255); }
+
+#fssbox input { background: white; }
+
+#fssbox input[type=3D"text"] { color: rgb(85, 85, 85); border: 0.1em solid =
+rgb(187, 187, 187); }
+
+#fssbox input[type=3D"text"]:focus { color: rgb(51, 51, 51); border-color: =
+rgb(0, 136, 136); }
+
+#fssbox input[type=3D"submit"] { color: rgb(0, 99, 99); border: 0.1em solid=
+ rgb(0, 136, 136); cursor: pointer; }
+
+#fssbox input[type=3D"text"]:focus ~ input[type=3D"submit"] { color: rgb(0,=
+ 95, 95); background: rgb(221, 255, 255); }
+
+.rounded-corners, .button a, .backtotop a, #fssbox input { border-radius: 0=
+.4em; }
+
+a[href] { font-family: sans-serif; }
+
+#fsf-frame a[href], form, .button a[href], #header a[href], #fsf-support, #=
+languages, #languages a[href], .breadcrumb, .breadcrumb a, .trans-disclaime=
+r, .trans-disclaimer a[href], #outdated, #outdated a[href] { font-family: "=
+Noto Sans Display", "Noto Sans", "Liberation Sans", sans-serif; }
+
+#gnu-banner strong { font-family: "Noto Sans", "Liberation Sans", sans-seri=
+f; }
+
+#navigation a[href], #edu-navigation a[href] { font-family: Dosis, "Noto Sa=
+ns Display", "Noto Sans", "Liberation Sans", sans-serif; }
+------MultipartBoundary--8XPOPlybqlLrxfVUlRLXSni9dhDOd0gHvw3YUazM2n----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.gnu.org/print.min.css
+
+@charset "utf-8";
+
+#header, #navigation, #links, #toplinks, #fsf-links, #back-to-top, #transla=
+tions, #searcher, .unprintable, #mission-statement, #Disclaimer, #education=
+-content, .edu-breadcrumb, .anchor-reference-id, .back, .skip, #fsf-frame, =
+#languages, #navlinks, .breadcrumb, .backtotop { display: none; }
+
+.inner { width: 100%; }
+
+body { font-family: Baskerville, Georgia, Garamond, Times, serif; border: 0=
+px; font-size: 11pt !important; }
+
+h1, h2, h3, h4, h5, h6 { border: 0px; font-family: Baskerville, Georgia, Ga=
+ramond, Times, serif; }
+
+div, p, ul, dl, ol { width: auto !important; }
+
+ul, ol, dl { padding-right: 0.5em; }
+
+ul { list-style-type: square; }
+
+.documentDescription { font-weight: bold; }
+
+pre { border: 1pt dotted black; white-space: pre; font-size: 8pt; overflow:=
+ auto; padding: 1em 0px; }
+
+table, td, th { padding: 0.3em; border-collapse: collapse; border: 1pt soli=
+d black !important; }
+
+table#gpl-compat-matrix td, th.gpl-matrix-border { text-align: center; }
+
+th.gpl-matrix-license { text-align: right; }
+
+tr.gpl-matrix-use-type { border-top: 0.2em solid black; }
+
+a { color: black !important; padding: 0px !important; text-decoration: none=
+ !important; }
+
+a:link, a:visited { color: rgb(85, 34, 0); background: transparent; }
+------MultipartBoundary--8XPOPlybqlLrxfVUlRLXSni9dhDOd0gHvw3YUazM2n----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.gnu.org/graphics/heckert_gnu.transp.small.png
+
+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
+
+------MultipartBoundary--8XPOPlybqlLrxfVUlRLXSni9dhDOd0gHvw3YUazM2n----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.gnu.org/graphics/icons/search.png
+
+iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAAAAmJLR0QA1CszNf8AAAQpSURBVFjD
+3ZhtbFNVGMd/97bd2rVdO5fB0LAZOhZN3BAVh8F0GBSjhg1jCMREo3yR6MRPRmWO+AWMCYmOCAsx
+IVGIEsXIMNMgIUhAzcLLxGyLA53gXBPZJmxdN/p2rx/uPe26drf3buML53zo+Z+ec3/3OS/Pc86F
+2yVJef4vJkgt1fjwMMZ1LtHFT0zMF97B8/xAAjUr3+QbGpDnbt9mruR4/NTcw/q5IO7mdB6AyO2U
+zW5O1nKIkrR8mAp8eK76um/UhhePcDSz9SCNnLcK2cBBCoRYR/2+Fb8H7Askm6xIshpX/lX/jJ0J
+bn9uSo8wDfxoBfIkRwViDc98tq6r3GN32CWb3kwlSUJNxgbHD9c3P5vqNcZqusxCKujiDq24ibea
+An5ngV3KHk+VhDoZ7R1d9bEiqgZYzsjMEHkK7nOB2Dy6c2t1mafQIUk538sheZ33lXVvLRJVi9lj
+ZEka8jKrtMJGtrUsKnXJkuEAuOXK0rOvp7pv5PH8w+XgMpXaXOxqqi4zRohhiygXrz0qbOhkZT5L
+NmgIaNwXKDGDAIkiucZ/7zFd1hHMB3lJ+2ng6T6nQzK5a2WchYc7UvJFY4iXxzQZ/KTcbZcsODip
+0rOkUxfrZ/JnWnUQu7a7V/TYHJIlJ2crbP1UF6XUGEGWiY2yxGHFDgBZrnSnRK0RpEoEjwWSzaI3
+tVGefq2lRhDdIXoG7JJFQ5Dxp6eixAhSqEP+UC2HIgkbHiFcRhA9nN54SFKsQlRijAkxbgQZ1sSE
+N6qqFiEK19Ndho0glzQxREhNWIQkGUhD+owg5zTRwV/RpEVTkkqbLyXOG0E6xaycbExEVUuDFZ/s
+2KKLK/QbQaIidO9c83c4bmHy48p+95A4THw5814SIfQFreArqestMOlaFMITm16LePRl9gpDxl74
+uJiX91f+OhpRVFOLN5xscl8r1+URevNHxrdFYfWeyyP5MSphZbftixYxbrxrJvye4KAo1u3uHQ4r
+iuHCHUu0ye+1pCp2zWxH5mmlmHNpF3f81Qd8bmdBjhipEFPGI1t8Xzenqn6hnrjZc1cVZ1goxMLQ
+dzuWeu0uWbYhI6GSRFGVZOzmXs8H20anuuurtPMVP6OYO0Eu5/s0Bkom296scJVLfoqYYEQNJVtL
+jzVHMidHPCPEId4hZmZdBvjN5HFbReUUpzL0CbzmdpiL1pz3kul5khbsNE2r7aTU7Fa+n3YUA0Cc
+AwT0mD29XTd3mvcZ97CDnqzHJ7lAMxVT2l3IatOvv4DJOyMsooZq/PqdsY+LWUfrN/goq9cga412
+zmzShzkG9D8eme879P4cmHGemF+Mg29zrr8H5xfj4mQOzN75/vBQzNksyJFMLzz3NMZTWSuq/1Z8
+RrmL/gxLgrfma00VIR2gsN3sZpyNNU0s4x8OcJrbLP0Py7XcFCepFK8AAAAASUVORK5CYII=
+
+------MultipartBoundary--8XPOPlybqlLrxfVUlRLXSni9dhDOd0gHvw3YUazM2n----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.gnu.org/graphics/icons/translations.png
+
+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
+
+------MultipartBoundary--8XPOPlybqlLrxfVUlRLXSni9dhDOd0gHvw3YUazM2n----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.gnu.org/graphics/gplv3-127x51.png
+
+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
+
+------MultipartBoundary--8XPOPlybqlLrxfVUlRLXSni9dhDOd0gHvw3YUazM2n----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.gnu.org/graphics/fsf-logo-notext-small.png
+
+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
+
+------MultipartBoundary--8XPOPlybqlLrxfVUlRLXSni9dhDOd0gHvw3YUazM2n------

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Harpsichord Release 1" RRGroupAmount="1.0"
+           MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="34" HiKey="34" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_A#0_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="14799" SampleEnd="212191"
+          SampleRate="44100.0" MonolithOffset="0" MonolithLength="212992"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_A#1_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="12114" SampleEnd="95940"
+          SampleRate="44100.0" MonolithOffset="212992" MonolithLength="98304"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_A#2_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="11395" SampleEnd="75434"
+          SampleRate="44100.0" MonolithOffset="311296" MonolithLength="77824"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_A#3_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="13223" SampleEnd="107348"
+          SampleRate="44100.0" MonolithOffset="389120" MonolithLength="110592"/>
+  <sample Root="35" LoKey="35" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_B0_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="14048" SampleEnd="130802"
+          SampleRate="44100.0" MonolithOffset="499712" MonolithLength="131072"/>
+  <sample Root="47" LoKey="47" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_B1_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="9000" SampleEnd="63577"
+          SampleRate="44100.0" MonolithOffset="630784" MonolithLength="65536"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_B2_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="13100" SampleEnd="92720"
+          SampleRate="44100.0" MonolithOffset="696320" MonolithLength="94208"/>
+  <sample Root="71" LoKey="71" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_B3_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="22228" SampleEnd="98668"
+          SampleRate="44100.0" MonolithOffset="790528" MonolithLength="102400"/>
+  <sample Root="83" LoKey="83" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_B4_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="9000" SampleEnd="96419"
+          SampleRate="44100.0" MonolithOffset="892928" MonolithLength="98304"/>
+  <sample Root="37" LoKey="37" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_C#1_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="13751" SampleEnd="128573"
+          SampleRate="44100.0" MonolithOffset="991232" MonolithLength="131072"/>
+  <sample Root="49" LoKey="49" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_C#2_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="9000" SampleEnd="91132"
+          SampleRate="44100.0" MonolithOffset="1122304" MonolithLength="94208"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_C#3_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="11391" SampleEnd="92671"
+          SampleRate="44100.0" MonolithOffset="1216512" MonolithLength="94208"/>
+  <sample Root="73" LoKey="73" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_C#4_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="9000" SampleEnd="76757"
+          SampleRate="44100.0" MonolithOffset="1310720" MonolithLength="77824"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_D#1_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="12154" SampleEnd="115987"
+          SampleRate="44100.0" MonolithOffset="1388544" MonolithLength="118784"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_D#2_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="11189" SampleEnd="109717"
+          SampleRate="44100.0" MonolithOffset="1507328" MonolithLength="110592"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_D#3_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="10158" SampleEnd="65431"
+          SampleRate="44100.0" MonolithOffset="1617920" MonolithLength="65536"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_D#4_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="9000" SampleEnd="90729"
+          SampleRate="44100.0" MonolithOffset="1683456" MonolithLength="94208"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_E1_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="12139" SampleEnd="108253"
+          SampleRate="44100.0" MonolithOffset="1777664" MonolithLength="110592"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_E2_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="11734" SampleEnd="97243"
+          SampleRate="44100.0" MonolithOffset="1888256" MonolithLength="98304"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_E3_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="16503" SampleEnd="79833"
+          SampleRate="44100.0" MonolithOffset="1986560" MonolithLength="81920"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_E4_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="6075" SampleEnd="58877"
+          SampleRate="44100.0" MonolithOffset="2068480" MonolithLength="61440"/>
+  <sample Root="30" LoKey="0" HiKey="31" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_F#0_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="20893" SampleEnd="176699"
+          SampleRate="44100.0" MonolithOffset="2129920" MonolithLength="180224"/>
+  <sample Root="42" LoKey="42" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_F#1_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="9000" SampleEnd="102424"
+          SampleRate="44100.0" MonolithOffset="2310144" MonolithLength="106496"/>
+  <sample Root="54" LoKey="54" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_F#2_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="14558" SampleEnd="128611"
+          SampleRate="44100.0" MonolithOffset="2416640" MonolithLength="131072"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_F#3_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="7191" SampleEnd="27855"
+          SampleRate="44100.0" MonolithOffset="2547712" MonolithLength="28672"/>
+  <sample Root="78" LoKey="78" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_F#4_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="6020" SampleEnd="56165"
+          SampleRate="44100.0" MonolithOffset="2576384" MonolithLength="57344"/>
+  <sample Root="32" LoKey="32" HiKey="33" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_G#0_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="16925" SampleEnd="176734"
+          SampleRate="44100.0" MonolithOffset="2633728" MonolithLength="180224"/>
+  <sample Root="44" LoKey="44" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_G#1_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="9000" SampleEnd="104054"
+          SampleRate="44100.0" MonolithOffset="2813952" MonolithLength="106496"/>
+  <sample Root="56" LoKey="56" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_G#2_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="13791" SampleEnd="97242"
+          SampleRate="44100.0" MonolithOffset="2920448" MonolithLength="98304"/>
+  <sample Root="68" LoKey="68" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_G#3_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="9793" SampleEnd="77711"
+          SampleRate="44100.0" MonolithOffset="3018752" MonolithLength="77824"/>
+  <sample Root="80" LoKey="80" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Italian/Releases/Harpsichord_stop1-rel_G#4_1.wav"
+          Duplicate="0" Volume="12" SampleStartMod="9000" SampleEnd="61868"
+          SampleRate="44100.0" MonolithOffset="3096576" MonolithLength="65536"/>
+</samplemap>

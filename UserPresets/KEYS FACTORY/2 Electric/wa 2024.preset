@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1.0.0">
+  <Content Processor="Interface">
+    <Control type="ScriptButton" id="PrevBtn" value="0.0"/>
+    <Control type="ScriptButton" id="NextBtn" value="0.0"/>
+    <Control type="ScriptSlider" id="PHKnob" value="0.0"/>
+    <Control type="ScriptSlider" id="Compression Threshold" value="-4.599999904632568"/>
+    <Control type="ScriptSlider" id="Compression Ratio" value="2.099999904632568"/>
+    <Control type="ScriptButton" id="Compression On Off" value="1.0"/>
+    <Control type="ScriptSlider" id="Saturation Intensity" value="0.0"/>
+    <Control type="ScriptSlider" id="Saturation Amount" value="0.0"/>
+    <Control type="ScriptSlider" id="Saturation PreGain" value="0.0"/>
+    <Control type="ScriptSlider" id="Saturation PostGain" value="-24.0"/>
+    <Control type="ScriptButton" id="Sturation On Off" value="0.0"/>
+    <Control type="ScriptSlider" id="Delay Time Left" value="0.0"/>
+    <Control type="ScriptSlider" id="Delay Feedback Left" value="0.4799999892711639"/>
+    <Control type="ScriptSlider" id="Delay Time Right" value="2.0"/>
+    <Control type="ScriptSlider" id="Delay Feedback Right" value="0.4699999988079071"/>
+    <Control type="ScriptSlider" id="Delay Send" value="-40.59999847412109"/>
+    <Control type="ScriptButton" id="Delay Send On Off" value="0.0"/>
+    <Control type="ScriptButton" id="Send Delay to Reverb" value="1.0"/>
+    <Control type="ScriptSlider" id="Reverb Size" value="0.4300000071525574"/>
+    <Control type="ScriptSlider" id="Reverb Width" value="0.6700000166893005"/>
+    <Control type="ScriptSlider" id="Reverb Damping" value="0.2899999916553497"/>
+    <Control type="ScriptSlider" id="Reverb Send" value="-10.99999904632568"/>
+    <Control type="ScriptButton" id="Reverb Send On Off" value="1.0"/>
+    <Control type="ScriptSlider" id="Master Volume" value="-9.569999694824219"/>
+    <Control type="ScriptSlider" id="E1 MVolume " value="-5.099998474121094"/>
+    <Control type="ScriptSlider" id="E2 MVolume" value="-5.099998474121094"/>
+    <Control type="ScriptSlider" id="E3 MVolume" value="-5.099998474121094"/>
+    <Control type="ScriptSlider" id="Master Panorama" value="0.0"/>
+    <Control type="ScriptSlider" id="E1 Pan" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 Pan" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 Pan" value="0.0"/>
+    <Control type="ScriptSlider" id="Master Image" value="106.0"/>
+    <Control type="ScriptSlider" id="Master Transpose" value="-12.0"/>
+    <Control type="ScriptButton" id="GFilter label On Off" value="1.0"/>
+    <Control type="ScriptComboBox" id="G1FilterType" value="10.0"/>
+    <Control type="ScriptSlider" id="Global Filter Frequency" value="1794.0"/>
+    <Control type="ScriptSlider" id="Global Filter Resonance" value="0.300000011920929"/>
+    <Control type="ScriptSlider" id="Global Filter Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="Tremolo Rate" value="3.150000095367432"/>
+    <Control type="ScriptSlider" id="Tremolo Amount" value="0.2599999904632568"/>
+    <Control type="ScriptSlider" id="TremoloPan" value="0.1800000071525574"/>
+    <Control type="ScriptSlider" id="E1Tremolo" value="0.1800000071525574"/>
+    <Control type="ScriptSlider" id="E2Tremolo" value="0.1800000071525574"/>
+    <Control type="ScriptSlider" id="E3Tremolo" value="0.1800000071525574"/>
+    <Control type="ScriptButton" id="Tremolo On Off" value="1.0"/>
+    <Control type="ScriptSlider" id="Phaser Depth" value="4258.0"/>
+    <Control type="ScriptSlider" id="Phaser Rate" value="3.380000114440918"/>
+    <Control type="ScriptSlider" id="Phaser Feedback" value="0.25"/>
+    <Control type="ScriptSlider" id="Phaser Mix" value="0.1700000017881393"/>
+    <Control type="ScriptButton" id="Phaser On Off" value="1.0"/>
+    <Control type="ScriptComboBox" id="Impulse1" value="3.0"/>
+    <Control type="ScriptSlider" id="Resonance Amount" value="-57.72999954223633"/>
+    <Control type="ScriptButton" id="Resonance On Off" value="1.0"/>
+    <Control type="ScriptComboBox" id="E1SampleMap" value="1.0"/>
+    <Control type="ScriptSlider" id="E1 SampleStart Position" value="0.5199999809265137"/>
+    <Control type="ScriptSlider" id="E1 SampleStart Random" value="0.4799999892711639"/>
+    <Control type="ScriptSlider" id="E1 SampleStart Velocity" value="0.9599999785423279"/>
+    <Control type="ScriptButton" id="E1 On Off" value="1.0"/>
+    <Control type="ScriptButton" id="E1 Force Mono" value="0.0"/>
+    <Control type="ScriptButton" id="E1 SampleStart Velocity Exponential On Off"
+             value="1.0"/>
+    <Control type="ScriptSlider" id="E1 Envelope Attack" value="4.0"/>
+    <Control type="ScriptSlider" id="E1 Envelope Attack Bias" value="0.5"/>
+    <Control type="ScriptSlider" id="E1 Envelope Hold" value="20000.0"/>
+    <Control type="ScriptSlider" id="E1 Envelope Decay" value="1.0"/>
+    <Control type="ScriptSlider" id="E1 Envelope Velocity Decay Time" value="0.0"/>
+    <Control type="ScriptSlider" id="E1 Envelope Release" value="155.0"/>
+    <Control type="ScriptSlider" id="E1 Velocity" value="0.01999999955296516"/>
+    <Control type="ScriptButton" id="E1 Velocity Exponential On Off" value="0.0"/>
+    <Control type="ScriptButton" id="E1 Velocity Invert On Off" value="0.0"/>
+    <Control type="ScriptButton" id="E1 Velocity Decay Time Invert" value="0.0"/>
+    <Control type="ScriptButton" id="E1 Velocity Decay TIme Exponential" value="0.0"/>
+    <Control type="ScriptSlider" id="E1 Transpose" value="-12.0"/>
+    <Control type="ScriptSlider" id="E1_PitchShift" value="1.0"/>
+    <Control type="ScriptSlider" id="E1 Voice Single Double" value="2.0"/>
+    <Control type="ScriptSlider" id="E1 Voice Spread" value="0.550000011920929"/>
+    <Control type="ScriptSlider" id="E1 Voice Detune" value="0.05000000074505806"/>
+    <Control type="ScriptSlider" id="E1 Voice Velocity Detune" value="0.6100000143051147"/>
+    <Control type="ScriptButton" id="E1 Voice Velocity Detune Exponential Mode"
+             value="1.0"/>
+    <Control type="ScriptButton" id="E1 Voice Velocity Detune Exponential Mode1"
+             value="0.0"/>
+    <Control type="ScriptButton" id="E1 Filter On Off" value="1.0"/>
+    <Control type="ScriptComboBox" id="E1FilterType" value="8.0"/>
+    <Control type="ScriptSlider" id="E1 Filter Frequency" value="8157.0"/>
+    <Control type="ScriptSlider" id="E1 Filter Resonance" value="0.300000011920929"/>
+    <Control type="ScriptSlider" id="E1 Filter Bias" value="-0.1899999976158142"/>
+    <Control type="ScriptSlider" id="E1 Filter Envelope Velocity" value="0.8999999761581421"/>
+    <Control type="ScriptSlider" id="E1 Filter Envelope Intensity" value="0.0"/>
+    <Control type="ScriptSlider" id="E1 Filter Envelope Attack" value="0.1000000014901161"/>
+    <Control type="ScriptSlider" id="E1 Filter Envelope Attack Bias" value="0.0"/>
+    <Control type="ScriptSlider" id="E1 Filter Envelope Decay" value="0.1000000014901161"/>
+    <Control type="ScriptSlider" id="E1 Filter Envelope Velocity Decay Time"
+             value="0.0"/>
+    <Control type="ScriptButton" id="E1 Filter Velocity Decay Time Invert"
+             value="0.0"/>
+    <Control type="ScriptButton" id="E1 Filter Velocity Decay TIme Exponential"
+             value="0.0"/>
+    <Control type="ScriptSlider" id="E1 Filter Envelope Sustain" value="-100.0"/>
+    <Control type="ScriptButton" id="E1 Filter Exponential Velocity On Off"
+             value="1.0"/>
+    <Control type="ScriptButton" id="E1 Filter Invert Velocity On Off" value="0.0"/>
+    <Control type="ScriptSlider" id="E1 Filter Envelope Release" value="0.1000000014901161"/>
+    <Control type="ScriptButton" id="E1 FM On Off" value="0.0"/>
+    <Control type="ScriptSlider" id="E1 FM Intensity" value="0.0"/>
+    <Control type="ScriptSlider" id="E1 FM Ratio" value="0.0"/>
+    <Control type="ScriptSlider" id="E1 FM Fine" value="0.5"/>
+    <Control type="ScriptSlider" id="E1 FM Intensity Envelope" value="0.0"/>
+    <Control type="ScriptSlider" id="E1 FM envelope Attack" value="0.0"/>
+    <Control type="ScriptSlider" id="E1 FM envelope Decay" value="1.0"/>
+    <Control type="ScriptSlider" id="E1 FM envelope Release" value="1.0"/>
+    <Control type="ScriptSlider" id="E1 FM Shape" value="0.0"/>
+    <Control type="ScriptSlider" id="E1 FM Velocity Intensity" value="0.0"/>
+    <Control type="ScriptButton" id="E1 FM Invert Velocity On Off" value="0.0"/>
+    <Control type="ScriptButton" id="E1 FM Exponentional Velocity On Off"
+             value="0.0"/>
+    <Control type="ScriptComboBox" id="E2SampleMap" value="2.0"/>
+    <Control type="ScriptSlider" id="E2 SampleStart Position" value="0.4699999988079071"/>
+    <Control type="ScriptSlider" id="E2 SampleStart Random" value="0.7599999904632568"/>
+    <Control type="ScriptSlider" id="E2 SampleStart Velocity" value="1.0"/>
+    <Control type="ScriptButton" id="E2 On Off" value="1.0"/>
+    <Control type="ScriptButton" id="E2 Force Mono" value="0.0"/>
+    <Control type="ScriptButton" id="E2 SampleStart Velocity Exponential On Off"
+             value="0.0"/>
+    <Control type="ScriptSlider" id="E2 Envelope Attack" value="5.0"/>
+    <Control type="ScriptSlider" id="E2 Envelope Attack Bias" value="0.5"/>
+    <Control type="ScriptSlider" id="E2 Envelope Hold" value="20000.0"/>
+    <Control type="ScriptSlider" id="E2 Envelope Decay" value="40000.0"/>
+    <Control type="ScriptButton" id="E2 Velocity Decay Time Invert" value="0.0"/>
+    <Control type="ScriptButton" id="E2 Velocity Decay TIme Exponential" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 Envelope Velocity Decay Time" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 Envelope Release" value="126.0"/>
+    <Control type="ScriptSlider" id="E2 Velocity" value="0.0"/>
+    <Control type="ScriptButton" id="E2 Velocity Exponential On Off" value="0.0"/>
+    <Control type="ScriptButton" id="E2 Velocity Invert On Off" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 Transpose" value="-12.0"/>
+    <Control type="ScriptSlider" id="E2_PitchShift" value="1.0"/>
+    <Control type="ScriptSlider" id="E2 Voice Single Double" value="2.0"/>
+    <Control type="ScriptSlider" id="E2 Voice Spread" value="0.3899999856948853"/>
+    <Control type="ScriptSlider" id="E2 Voice Detune" value="0.03999999910593033"/>
+    <Control type="ScriptSlider" id="E2 Voice Velocity Detune" value="0.75"/>
+    <Control type="ScriptButton" id="E2 Voice Velocity Detune Exponential Mode"
+             value="1.0"/>
+    <Control type="ScriptButton" id="E2 Voice Velocity Detune Invert" value="1.0"/>
+    <Control type="ScriptButton" id="E2 Filter On Off" value="1.0"/>
+    <Control type="ScriptComboBox" id="E2FilterType" value="8.0"/>
+    <Control type="ScriptSlider" id="E2 Filter Frequency" value="10422.0"/>
+    <Control type="ScriptSlider" id="E2 Filter Resonance" value="0.300000011920929"/>
+    <Control type="ScriptSlider" id="E2 Filter Bias" value="-0.1700000017881393"/>
+    <Control type="ScriptSlider" id="E2 Filter Envelope Velocity" value="0.8600000143051147"/>
+    <Control type="ScriptSlider" id="E2 Filter Envelope Intensity" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 Filter Envelope Attack" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 Filter Envelope Attack Bias" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 Filter Envelope Decay" value="0.1000000014901161"/>
+    <Control type="ScriptButton" id="E2 Filter Velocity Decay Time Invert"
+             value="0.0"/>
+    <Control type="ScriptButton" id="E2 Filter Velocity Decay TIme Exponential"
+             value="0.0"/>
+    <Control type="ScriptSlider" id="E2 Filter Envelope Velocity Decay Time"
+             value="0.0"/>
+    <Control type="ScriptSlider" id="E2 Filter Envelope Sustain" value="-100.0"/>
+    <Control type="ScriptButton" id="E2 Filter Exponential Velocity On Off"
+             value="1.0"/>
+    <Control type="ScriptButton" id="E2 Filter Invert Velocity On Off" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 Filter Envelope Release" value="0.1000000014901161"/>
+    <Control type="ScriptButton" id="E2 FM On Off" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 FM Intensity" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 FM Ratio" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 FM Fine" value="0.5"/>
+    <Control type="ScriptSlider" id="E2 FM Intensity Envelope" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 FM envelope Attack" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 FM envelope Decay" value="1.0"/>
+    <Control type="ScriptSlider" id="E2 FM envelope Release" value="1.0"/>
+    <Control type="ScriptSlider" id="E2 FM Shape" value="0.0"/>
+    <Control type="ScriptSlider" id="E2 FM Velocity Intensity" value="0.0"/>
+    <Control type="ScriptButton" id="E2 FM Invert Velocity On Off" value="0.0"/>
+    <Control type="ScriptButton" id="E2 FM Exponentional Velocity On Off"
+             value="0.0"/>
+    <Control type="ScriptComboBox" id="E3SampleMap" value="4.0"/>
+    <Control type="ScriptSlider" id="E3 SampleStart Position" value="0.7200000286102295"/>
+    <Control type="ScriptSlider" id="E3 SampleStart Random" value="0.8199999928474426"/>
+    <Control type="ScriptSlider" id="E3 SampleStart Velocity" value="0.9700000286102295"/>
+    <Control type="ScriptButton" id="E3 SampleStart Velocity Exponential On Off"
+             value="1.0"/>
+    <Control type="ScriptButton" id="E3 On Off" value="1.0"/>
+    <Control type="ScriptButton" id="E3 Force Mono" value="0.0"/>
+    <Control type="ScriptButton" id="E3 Release Trigger" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 Envelope Attack" value="5.0"/>
+    <Control type="ScriptSlider" id="E3 Envelope Attack Bias" value="0.5"/>
+    <Control type="ScriptSlider" id="E3 Envelope Hold" value="20000.0"/>
+    <Control type="ScriptSlider" id="E3 Envelope Decay" value="22237.0"/>
+    <Control type="ScriptSlider" id="E3 Envelope Velocity Decay Time" value="0.9800000190734863"/>
+    <Control type="ScriptButton" id="E3 Velocity Decay Time Invert" value="0.0"/>
+    <Control type="ScriptButton" id="E3 Velocity Decay TIme Exponential" value="1.0"/>
+    <Control type="ScriptSlider" id="E3 Envelope Release" value="155.0"/>
+    <Control type="ScriptSlider" id="E3 Velocity3" value="1.0"/>
+    <Control type="ScriptButton" id="E3 Velocity Exponential On Off" value="1.0"/>
+    <Control type="ScriptButton" id="E3 Velocity Invert On Off" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 Transpose" value="12.0"/>
+    <Control type="ScriptSlider" id="E3_PitchShift" value="-1.0"/>
+    <Control type="ScriptSlider" id="E3 Voice Single Double" value="2.0"/>
+    <Control type="ScriptSlider" id="E3 Voice Spread" value="0.3700000047683716"/>
+    <Control type="ScriptSlider" id="E3 Voice Detune" value="0.02999999932944775"/>
+    <Control type="ScriptSlider" id="E3 Voice Velocity Detune" value="0.4799999892711639"/>
+    <Control type="ScriptButton" id="E3 Voice Velocity Detune Exponential"
+             value="0.0"/>
+    <Control type="ScriptButton" id="E3 Voice Velocity Detune Inverted" value="0.0"/>
+    <Control type="ScriptButton" id="E3 Filter On Off" value="0.0"/>
+    <Control type="ScriptComboBox" id="E3FilterType" value="4.0"/>
+    <Control type="ScriptSlider" id="E3 Filter Frequency" value="330.0"/>
+    <Control type="ScriptSlider" id="E3 Filter Resonance" value="1.110000014305115"/>
+    <Control type="ScriptSlider" id="E3 Filter Bias" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 Filter Envelope Velocity" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 Filter Envelope Intensity" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 Filter Envelope Attack" value="0.1000000014901161"/>
+    <Control type="ScriptSlider" id="E3 Filter Envelope Attack Bias" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 Filter Envelope Decay" value="0.1000000014901161"/>
+    <Control type="ScriptSlider" id="E3 Filter Envelope Velocity Decay Time"
+             value="0.0"/>
+    <Control type="ScriptButton" id="E3 Filter Velocity Decay TIme Exponential"
+             value="0.0"/>
+    <Control type="ScriptButton" id="E3 Filter Velocity Decay Time Invert"
+             value="0.0"/>
+    <Control type="ScriptSlider" id="E3 Filter Envelope Sustain" value="-100.0"/>
+    <Control type="ScriptButton" id="E3 Filter Exponential Velocity On Off"
+             value="0.0"/>
+    <Control type="ScriptButton" id="E3 Filter Invert Velocity On Off" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 Filter Envelope Release" value="0.1000000014901161"/>
+    <Control type="ScriptButton" id="E3 FM On Off" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 FM Intensity" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 FM Ratio" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 FM Fine" value="0.5"/>
+    <Control type="ScriptSlider" id="E3 FM Intensity Envelope" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 FM envelope Attack" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 FM envelope Decay" value="1.0"/>
+    <Control type="ScriptSlider" id="E3 FM envelope Release" value="1.0"/>
+    <Control type="ScriptSlider" id="E3 FM Shape" value="0.0"/>
+    <Control type="ScriptSlider" id="E3 FM Velocity Intensity" value="0.0"/>
+    <Control type="ScriptButton" id="E3 FM Invert Velocity On Off" value="0.0"/>
+    <Control type="ScriptButton" id="E3 FM Exponentional Velocity On Off"
+             value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 to E1 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 to E1 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 to E1 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 to E1 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="VS Randomizer to E1 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="CT Randomizer to E1 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 to E1 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 to E1 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 to E1 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 to E1 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="VS Randomizer to E1 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="CT Randomizer to E1 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 to E1 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 to E1 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 to E1 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 to E1 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="VS Randomizer to E1 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="CT Randomizer to E1 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 to E1 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 to E1 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 to E1 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 to E1 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="VS Randomizer to E1 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="CT Randomizer to E1 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 to E2 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 to E2 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 to E2 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 to E2 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="VS Randomizer to E2 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="CT Randomizer to E2 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 to E2 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 to E2 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 to E2 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 to E2 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="VS Randomizer to E2 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="CT Randomizer to E2 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 to E2 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 to E2 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 to E2 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 to E2 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="VS Randomizer to E2 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="CT Randomizer to E2 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 to E2 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 to E2 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 to E2 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 to E2 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="VS Randomizer to E2 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="CT Randomizer to E2 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 to E3 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 to E3 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 to E3 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 to E3 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="VS Randomizer to E3 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="CT Randomizer to E3 Gain" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 to E3 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 to E3 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 to E3 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 to E3 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="VS Randomizer to E3 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="CT Randomizer to E3 Pitch" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 to E3 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 to E3 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 to E3 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 to E3 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="VS Randomizer to E3 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="CT Randomizer to E3 Filter" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 to E3 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 to E3 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 to E3 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 to E3 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="VS Randomizer to E3 FM" value="0.0"/>
+    <Control type="ScriptSlider" id="CT Randomizer to E3 FM" value="0.0"/>
+    <Control type="ScriptButton" id="LFO1 legato" value="0.0"/>
+    <Control type="ScriptButton" id="LFO1 loop" value="0.0"/>
+    <Control type="ScriptButton" id="LFO1 On Off" value="1.0"/>
+    <Control type="ScriptComboBox" id="LFO1Wave" value="1.0"/>
+    <Control type="ScriptSlider" id="LFO1 Frequency" value="0.4900000095367432"/>
+    <Control type="ScriptSlider" id="LFO1 Shape" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 Fadein" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 Phase" value="0.0"/>
+    <Control type="ScriptButton" id="LFO2 legato" value="0.0"/>
+    <Control type="ScriptButton" id="LFO2 loop" value="0.0"/>
+    <Control type="ScriptButton" id="LFO2 On Off" value="1.0"/>
+    <Control type="ScriptComboBox" id="LFO2Wave" value="1.0"/>
+    <Control type="ScriptSlider" id="LFO2 Frequency" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 Shape" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 Fadein" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO2 Phase" value="0.0"/>
+    <Control type="ScriptButton" id="LFO3 legato" value="0.0"/>
+    <Control type="ScriptButton" id="LFO3 loop" value="0.0"/>
+    <Control type="ScriptButton" id="LFO3 On Off" value="1.0"/>
+    <Control type="ScriptComboBox" id="LFO3Wave" value="1.0"/>
+    <Control type="ScriptSlider" id="LFO3 Frequency" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 Shape" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 Fadein" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO3 Phase" value="0.0"/>
+    <Control type="ScriptButton" id="LFO4 legato" value="0.0"/>
+    <Control type="ScriptButton" id="LFO4 loop" value="0.0"/>
+    <Control type="ScriptButton" id="LFO4 On Off" value="1.0"/>
+    <Control type="ScriptComboBox" id="LFO4Wave" value="1.0"/>
+    <Control type="ScriptSlider" id="LFO4 Frequency" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 Shape" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 Fadein" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO4 Phase" value="0.0"/>
+    <Control type="ScriptButton" id="Randomizers On or OFF" value="1.0"/>
+    <Control type="ScriptButton" id="LFO1 legato4" value="1.0"/>
+    <Control type="ScriptSlider" id="VoiceStart Randomizer Intensity" value="0.0"/>
+    <Control type="ScriptButton" id="LFO1 loop4" value="1.0"/>
+    <Control type="ScriptSlider" id="LFO1 Frequency16" value="0.0"/>
+    <Control type="ScriptSlider" id="LFO1 Frequency17" value="0.0"/>
+    <Control type="ScriptSlider" id="Continuous Time Randomizer Intensity"
+             value="0.0"/>
+    <Control type="ScriptTable" id="LFO1EditT" value="0.0" data="36...............vOsFWr8zBsP8C...vO...f+....9C...vO"/>
+    <Control type="ScriptTable" id="LFO2EditT" value="0.0" data="36...............vO4l4L+.oNp4C...vO...f+....9C...vO"/>
+    <Control type="ScriptTable" id="LFO3EditT" value="0.0" data="24...............vO...f+....9C3Qq2O"/>
+    <Control type="ScriptTable" id="LFO4EditT" value="0.0" data="24...............vO...f+....9S7RSdO"/>
+    <Control type="ScriptButton" id="LFO1EditButton" value="1.0"/>
+    <Control type="ScriptButton" id="LFO2EditButton" value="0.0"/>
+    <Control type="ScriptButton" id="LFO3EditButton" value="0.0"/>
+    <Control type="ScriptButton" id="LFO4EditButton" value="0.0"/>
+  </Content>
+  <MidiAutomation>
+    <Controller Controller="1" Processor="Interface" MacroIndex="-1" Start="0.0"
+                End="8.0" FullStart="-8.0" FullEnd="8.0" Skew="1.0" Interval="0.01"
+                Attribute="Global Filter Gain" Inverted="0"/>
+  </MidiAutomation>
+  <MPEData Enabled="0"/>
+</Preset>

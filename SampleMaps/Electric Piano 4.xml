@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Electric Piano 4" RRGroupAmount="1.0"
+           MicPositions=";" SaveMode="2">
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-A4.wav"
+          Duplicate="0" SampleStartMod="58592" Volume="1" SampleEnd="140481"
+          SampleRate="48000.0" MonolithOffset="0" MonolithLength="143360"/>
+  <sample Root="95" LoKey="93" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-B6.wav"
+          Duplicate="0" SampleStartMod="19667" Volume="1" SampleEnd="62272"
+          SampleRate="48000.0" MonolithOffset="143360" MonolithLength="65536"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-C#4.wav"
+          Duplicate="0" SampleStartMod="137985" Volume="1" SampleEnd="310852"
+          SampleRate="48000.0" MonolithOffset="208896" MonolithLength="311296"/>
+  <sample Root="36" LoKey="0" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-C2.wav"
+          Duplicate="0" SampleStartMod="302201" Volume="1" SampleEnd="508962"
+          SampleRate="48000.0" MonolithOffset="520192" MonolithLength="512000"/>
+  <sample Root="60" LoKey="55" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-C4.wav"
+          Duplicate="0" SampleStartMod="119080" Volume="1" SampleEnd="320227"
+          SampleRate="48000.0" MonolithOffset="1032192" MonolithLength="323584"/>
+  <sample Root="39" LoKey="37" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-D#2.wav"
+          Duplicate="0" SampleStartMod="305369" Volume="1" SampleEnd="441665"
+          SampleRate="48000.0" MonolithOffset="1355776" MonolithLength="442368"/>
+  <sample Root="63" LoKey="63" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-D#4.wav"
+          Duplicate="0" SampleStartMod="132269" Volume="1" SampleEnd="289169"
+          SampleRate="48000.0" MonolithOffset="1798144" MonolithLength="290816"/>
+  <sample Root="87" LoKey="87" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-D#6.wav"
+          Duplicate="0" SampleStartMod="24731" Volume="1" SampleEnd="90908"
+          SampleRate="48000.0" MonolithOffset="2088960" MonolithLength="94208"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-D4.wav"
+          Duplicate="0" SampleStartMod="86849" Volume="1" SampleEnd="197296"
+          SampleRate="48000.0" MonolithOffset="2183168" MonolithLength="200704"/>
+  <sample Root="86" LoKey="82" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-D6.wav"
+          Duplicate="0" Volume="3" SampleStartMod="31807" SampleEnd="100303"
+          SampleRate="48000.0" MonolithOffset="2383872" MonolithLength="102400"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-E2.wav"
+          Duplicate="0" SampleStartMod="309420" Volume="1" SampleEnd="522320"
+          SampleRate="48000.0" MonolithOffset="2486272" MonolithLength="524288"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-F#2.wav"
+          Duplicate="0" SampleStartMod="246756" Volume="1" SampleEnd="390726"
+          SampleRate="48000.0" MonolithOffset="3010560" MonolithLength="393216"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-F2.wav"
+          Duplicate="0" SampleStartMod="266520" Volume="1" SampleEnd="442231"
+          SampleRate="48000.0" MonolithOffset="3403776" MonolithLength="442368"/>
+  <sample Root="65" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-F4.wav"
+          Duplicate="0" SampleStartMod="87761" Volume="1" SampleEnd="214825"
+          SampleRate="48000.0" MonolithOffset="3846144" MonolithLength="217088"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-F6.wav"
+          Duplicate="0" SampleStartMod="21693" Volume="1" SampleEnd="88522"
+          SampleRate="48000.0" MonolithOffset="4063232" MonolithLength="90112"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-G6.wav"
+          Duplicate="0" Volume="3" SampleStartMod="12571" SampleEnd="42752"
+          SampleRate="48000.0" MonolithOffset="4153344" MonolithLength="45056"/>
+  <sample Root="71" LoKey="71" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/Mid vel/Wurli200A-VMid-long2-B4.wav"
+          Duplicate="0" Volume="3" SampleStartMod="66903" SampleEnd="170324"
+          SampleRate="48000.0" MonolithOffset="4198400" MonolithLength="172032"/>
+  <sample Root="47" LoKey="49" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/Mid vel/Wurli200A-VMid-long2-B2.wav"
+          Duplicate="0" Volume="4" SampleStartMod="188266" SampleEnd="401022"
+          SampleRate="48000.0" MonolithOffset="4370432" MonolithLength="401408"/>
+  <sample Root="45" LoKey="43" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}wurlitzer/Long notes/High vel/Wurli200A-VHigh-long2-A2.wav"
+          Duplicate="0" SampleStartMod="164896" Volume="1" SampleEnd="340593"
+          SampleRate="48000.0" MonolithOffset="4771840" MonolithLength="344064"/>
+</samplemap>

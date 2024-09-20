@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Piano 4 Upright" RRGroupAmount="1.0"
+           MicPositions=";" SaveMode="2">
+  <sample Root="36" LoKey="33" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Upright1_Sus_C1_vl3_rr1.wav"
+          Duplicate="0" SampleStartMod="156789" SampleEnd="966615" SampleRate="44100.0"
+          Volume="-2" MonolithOffset="0" MonolithLength="966656"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Upright1_Sus_C2_vl3_rr1.wav"
+          Duplicate="0" Volume="-3" SampleStartMod="109473" SampleEnd="1016768"
+          SampleRate="44100.0" MonolithOffset="966656" MonolithLength="1019904"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Upright1_Sus_C3_vl3_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="66859" SampleEnd="792055"
+          SampleRate="44100.0" MonolithOffset="1986560" MonolithLength="794624"/>
+  <sample Root="72" LoKey="69" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Upright1_Sus_C4_vl3_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="56900" SampleEnd="596487"
+          SampleRate="44100.0" MonolithOffset="2781184" MonolithLength="598016"/>
+  <sample Root="84" LoKey="81" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Upright1_Sus_C5_vl3_rr1.wav"
+          Duplicate="0" SampleStartMod="40000" SampleEnd="221718" SampleRate="44100.0"
+          Volume="-2" MonolithOffset="3379200" MonolithLength="225280"/>
+  <sample Root="96" LoKey="93" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Upright1_Sus_C6_vl3_rr1.wav"
+          Duplicate="0" SampleStartMod="20128" SampleEnd="105143" SampleRate="44100.0"
+          Volume="-2" MonolithOffset="3604480" MonolithLength="106496"/>
+  <sample Root="31" LoKey="0" HiKey="32" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Upright1_Sus_G0_vl3_rr1.wav"
+          Duplicate="0" Volume="-4" SampleStartMod="147485" SampleEnd="1089433"
+          SampleRate="44100.0" MonolithOffset="3710976" MonolithLength="1089536"/>
+  <sample Root="43" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Upright1_Sus_G1_vl3_rr1.wav"
+          Duplicate="0" Volume="-5" SampleStartMod="142127" SampleEnd="1065090"
+          SampleRate="44100.0" MonolithOffset="4800512" MonolithLength="1069056"/>
+  <sample Root="55" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Upright1_Sus_G2_vl3_rr1.wav"
+          Duplicate="0" Volume="-7" SampleStartMod="76738" SampleEnd="980406"
+          SampleRate="44100.0" MonolithOffset="5869568" MonolithLength="983040"/>
+  <sample Root="67" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Upright1_Sus_G3_vl3_rr1.wav"
+          Duplicate="0" Volume="-5" SampleStartMod="55373" SampleEnd="587190"
+          SampleRate="44100.0" MonolithOffset="6852608" MonolithLength="589824"/>
+  <sample Root="79" LoKey="75" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Upright1_Sus_G4_vl3_rr1.wav"
+          Duplicate="0" SampleStartMod="46521" SampleEnd="273242" SampleRate="44100.0"
+          Volume="-2" MonolithOffset="7442432" MonolithLength="274432"/>
+  <sample Root="91" LoKey="87" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Upright1_Sus_G5_vl3_rr3.wav"
+          Duplicate="0" SampleStartMod="40000" SampleEnd="145432" SampleRate="44100.0"
+          Volume="-2" MonolithOffset="7716864" MonolithLength="147456"/>
+</samplemap>

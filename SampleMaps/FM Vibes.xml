@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="FM Vibes" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="45" LoKey="43" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_A0.wav"
+          Duplicate="0" SampleStartMod="126350" SampleEnd="495489" SampleRate="48000.0"
+          MonolithOffset="0" MonolithLength="495616"/>
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_A1.wav"
+          Duplicate="0" SampleStartMod="110078" SampleEnd="437909" SampleRate="48000.0"
+          MonolithOffset="495616" MonolithLength="438272"/>
+  <sample Root="69" LoKey="67" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_A2.wav"
+          Duplicate="0" SampleStartMod="72129" SampleEnd="388107" SampleRate="48000.0"
+          MonolithOffset="933888" MonolithLength="389120"/>
+  <sample Root="81" LoKey="79" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_A3.wav"
+          Duplicate="0" SampleStartMod="62518" SampleEnd="340320" SampleRate="48000.0"
+          MonolithOffset="1323008" MonolithLength="344064"/>
+  <sample Root="93" LoKey="91" HiKey="93" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_A4.wav"
+          Duplicate="0" SampleStartMod="43772" SampleEnd="281570" SampleRate="48000.0"
+          Volume="-2" MonolithOffset="1667072" MonolithLength="282624"/>
+  <sample Root="36" LoKey="0" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_C0.wav"
+          Duplicate="0" SampleStartMod="177619" SampleEnd="697844" SampleRate="48000.0"
+          MonolithOffset="1949696" MonolithLength="700416"/>
+  <sample Root="48" LoKey="46" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_C1.wav"
+          Duplicate="0" SampleStartMod="126933" SampleEnd="505707" SampleRate="48000.0"
+          MonolithOffset="2650112" MonolithLength="507904"/>
+  <sample Root="60" LoKey="58" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_C2.wav"
+          Duplicate="0" SampleStartMod="106406" SampleEnd="436777" SampleRate="48000.0"
+          MonolithOffset="3158016" MonolithLength="438272"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_C3.wav"
+          Duplicate="0" SampleStartMod="72212" SampleEnd="320040" SampleRate="48000.0"
+          MonolithOffset="3596288" MonolithLength="323584"/>
+  <sample Root="84" LoKey="82" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_C4.wav"
+          Duplicate="0" SampleStartMod="61989" SampleEnd="347300" SampleRate="48000.0"
+          Volume="2" MonolithOffset="3919872" MonolithLength="348160"/>
+  <sample Root="96" LoKey="94" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_C5.wav"
+          Duplicate="0" SampleStartMod="44836" SampleEnd="274995" SampleRate="48000.0"
+          Volume="-3" MonolithOffset="4268032" MonolithLength="278528"/>
+  <sample Root="39" LoKey="37" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_D#0.wav"
+          Duplicate="0" SampleStartMod="148802" SampleEnd="586632" SampleRate="48000.0"
+          MonolithOffset="4546560" MonolithLength="589824"/>
+  <sample Root="51" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_D#1.wav"
+          Duplicate="0" SampleStartMod="123951" SampleEnd="495576" SampleRate="48000.0"
+          MonolithOffset="5136384" MonolithLength="495616"/>
+  <sample Root="63" LoKey="61" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_D#2.wav"
+          Duplicate="0" SampleStartMod="88064" SampleEnd="349399" SampleRate="48000.0"
+          MonolithOffset="5632000" MonolithLength="352256"/>
+  <sample Root="75" LoKey="73" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_D#3.wav"
+          Duplicate="0" SampleStartMod="72149" SampleEnd="374407" SampleRate="48000.0"
+          MonolithOffset="5984256" MonolithLength="376832"/>
+  <sample Root="87" LoKey="85" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_D#4.wav"
+          Duplicate="0" SampleStartMod="54546" SampleEnd="370117" SampleRate="48000.0"
+          Volume="4" MonolithOffset="6361088" MonolithLength="372736"/>
+  <sample Root="42" LoKey="40" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_F#0.wav"
+          Duplicate="0" SampleStartMod="146316" SampleEnd="582480" SampleRate="48000.0"
+          MonolithOffset="6733824" MonolithLength="585728"/>
+  <sample Root="54" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_F#1.wav"
+          Duplicate="0" SampleStartMod="109924" SampleEnd="447402" SampleRate="48000.0"
+          MonolithOffset="7319552" MonolithLength="450560"/>
+  <sample Root="66" LoKey="64" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_F#2.wav"
+          Duplicate="0" SampleStartMod="91411" SampleEnd="436427" SampleRate="48000.0"
+          MonolithOffset="7770112" MonolithLength="438272"/>
+  <sample Root="78" LoKey="76" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_F#3.wav"
+          Duplicate="0" SampleStartMod="62309" SampleEnd="313286" SampleRate="48000.0"
+          MonolithOffset="8208384" MonolithLength="315392"/>
+  <sample Root="90" LoKey="88" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM VIbes/FM Vibes Samples/FMVibes_F#4.wav"
+          Duplicate="0" SampleStartMod="54686" SampleEnd="277016" SampleRate="48000.0"
+          Volume="-1" MonolithOffset="8523776" MonolithLength="278528"/>
+</samplemap>

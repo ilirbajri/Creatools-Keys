@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Idiophone 2" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="72" LoKey="70" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Hard Mallets/Xylo_Hard_C4_ff_01_far.wav"
+          Duplicate="0" SampleStartMod="22001" SampleEnd="132584" SampleRate="44100.0"
+          MonolithOffset="0" MonolithLength="135168"/>
+  <sample Root="84" LoKey="82" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Hard Mallets/Xylo_Hard_C5_ff_01_far.wav"
+          Duplicate="0" SampleStartMod="16216" SampleEnd="75534" SampleRate="44100.0"
+          MonolithOffset="135168" MonolithLength="77824"/>
+  <sample Root="96" LoKey="94" HiKey="99" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Hard Mallets/Xylo_Hard_C6_ff_01_far.wav"
+          Duplicate="0" SampleStartMod="7955" SampleEnd="45286" SampleRate="44100.0"
+          MonolithOffset="212992" MonolithLength="49152"/>
+  <sample Root="108" LoKey="106" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Hard Mallets/Xylo_Hard_C7_ff_01_far.wav"
+          Duplicate="0" SampleStartMod="6266" SampleEnd="79079" SampleRate="44100.0"
+          MonolithOffset="262144" MonolithLength="81920"/>
+  <sample Root="67" LoKey="0" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Hard Mallets/Xylo_Hard_G3_ff_01_far.wav"
+          Duplicate="0" SampleStartMod="27216" SampleEnd="265599" SampleRate="44100.0"
+          MonolithOffset="344064" MonolithLength="266240"/>
+  <sample Root="79" LoKey="76" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Hard Mallets/Xylo_Hard_G4_ff_01_far.wav"
+          Duplicate="0" SampleStartMod="18177" SampleEnd="102749" SampleRate="44100.0"
+          MonolithOffset="610304" MonolithLength="106496"/>
+  <sample Root="91" LoKey="88" HiKey="93" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Hard Mallets/Xylo_Hard_G5_ff_01_far.wav"
+          Duplicate="0" SampleStartMod="9065" SampleEnd="56328" SampleRate="44100.0"
+          MonolithOffset="716800" MonolithLength="57344"/>
+  <sample Root="103" LoKey="100" HiKey="105" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Hard Mallets/Xylo_Hard_G6_ff_01_far.wav"
+          Duplicate="0" SampleStartMod="5418" SampleEnd="38632" SampleRate="44100.0"
+          MonolithOffset="774144" MonolithLength="40960"/>
+</samplemap>

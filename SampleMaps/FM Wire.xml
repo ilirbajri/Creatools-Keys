@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="FM Wire" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="33" LoKey="31" HiKey="33" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_A0.wav"
+          Duplicate="0" SampleStartMod="116031" SampleEnd="440967" SampleRate="48000.0"
+          MonolithOffset="0" MonolithLength="442368"/>
+  <sample Root="45" LoKey="43" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_A1.wav"
+          Duplicate="0" SampleStartMod="75818" SampleEnd="283540" SampleRate="48000.0"
+          MonolithOffset="442368" MonolithLength="286720"/>
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_A2.wav"
+          Duplicate="0" SampleStartMod="59220" SampleEnd="210163" SampleRate="48000.0"
+          MonolithOffset="729088" MonolithLength="212992"/>
+  <sample Root="69" LoKey="67" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_A3.wav"
+          Duplicate="0" SampleStartMod="40569" SampleEnd="142802" SampleRate="48000.0"
+          MonolithOffset="942080" MonolithLength="143360"/>
+  <sample Root="81" LoKey="79" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_A4.wav"
+          Duplicate="0" SampleStartMod="31291" SampleEnd="107181" SampleRate="48000.0"
+          MonolithOffset="1085440" MonolithLength="110592"/>
+  <sample Root="24" LoKey="0" HiKey="24" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_C0.wav"
+          Duplicate="0" SampleStartMod="155738" SampleEnd="442951" SampleRate="48000.0"
+          MonolithOffset="1196032" MonolithLength="446464"/>
+  <sample Root="36" LoKey="34" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_C1.wav"
+          Duplicate="0" SampleStartMod="116859" SampleEnd="422793" SampleRate="48000.0"
+          MonolithOffset="1642496" MonolithLength="425984"/>
+  <sample Root="48" LoKey="46" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_C2.wav"
+          Duplicate="0" SampleStartMod="78605" SampleEnd="281069" SampleRate="48000.0"
+          MonolithOffset="2068480" MonolithLength="282624"/>
+  <sample Root="60" LoKey="58" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_C3.wav"
+          Duplicate="0" SampleStartMod="60714" SampleEnd="222181" SampleRate="48000.0"
+          MonolithOffset="2351104" MonolithLength="225280"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_C4.wav"
+          Duplicate="0" SampleStartMod="41263" SampleEnd="139598" SampleRate="48000.0"
+          MonolithOffset="2576384" MonolithLength="143360"/>
+  <sample Root="84" LoKey="82" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_C5.wav"
+          Duplicate="0" SampleStartMod="31424" SampleEnd="106961" SampleRate="48000.0"
+          MonolithOffset="2719744" MonolithLength="110592"/>
+  <sample Root="27" LoKey="25" HiKey="27" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_D#0.wav"
+          Duplicate="0" SampleStartMod="136938" SampleEnd="441494" SampleRate="48000.0"
+          MonolithOffset="2830336" MonolithLength="442368"/>
+  <sample Root="39" LoKey="37" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_D#1.wav"
+          Duplicate="0" SampleStartMod="92341" SampleEnd="340135" SampleRate="48000.0"
+          MonolithOffset="3272704" MonolithLength="344064"/>
+  <sample Root="51" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_D#2.wav"
+          Duplicate="0" SampleStartMod="66541" SampleEnd="242092" SampleRate="48000.0"
+          MonolithOffset="3616768" MonolithLength="245760"/>
+  <sample Root="63" LoKey="61" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_D#3.wav"
+          Duplicate="0" SampleStartMod="50000" SampleEnd="165660" SampleRate="48000.0"
+          MonolithOffset="3862528" MonolithLength="167936"/>
+  <sample Root="75" LoKey="73" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_D#4.wav"
+          Duplicate="0" SampleStartMod="35366" SampleEnd="120685" SampleRate="48000.0"
+          MonolithOffset="4030464" MonolithLength="122880"/>
+  <sample Root="30" LoKey="28" HiKey="30" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_F#0.wav"
+          Duplicate="0" SampleStartMod="132363" SampleEnd="440334" SampleRate="48000.0"
+          MonolithOffset="4153344" MonolithLength="442368"/>
+  <sample Root="42" LoKey="40" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_F#1.wav"
+          Duplicate="0" SampleStartMod="92499" SampleEnd="339179" SampleRate="48000.0"
+          MonolithOffset="4595712" MonolithLength="339968"/>
+  <sample Root="54" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_F#2.wav"
+          Duplicate="0" SampleStartMod="67334" SampleEnd="249195" SampleRate="48000.0"
+          MonolithOffset="4935680" MonolithLength="249856"/>
+  <sample Root="66" LoKey="64" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_F#3.wav"
+          Duplicate="0" SampleStartMod="50000" SampleEnd="175923" SampleRate="48000.0"
+          MonolithOffset="5185536" MonolithLength="176128"/>
+  <sample Root="78" LoKey="76" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Wire/FM Wire Samples/FMWire_F#4.wav"
+          Duplicate="0" SampleStartMod="35360" SampleEnd="121726" SampleRate="48000.0"
+          MonolithOffset="5361664" MonolithLength="122880"/>
+</samplemap>

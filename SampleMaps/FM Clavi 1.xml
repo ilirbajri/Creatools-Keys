@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="FM Clavi 1" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="33" LoKey="32" HiKey="34" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_A0.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614400" SampleRate="48000.0"
+          Volume="7" MonolithOffset="0" MonolithLength="614400"/>
+  <sample Root="45" LoKey="44" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_A1.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614394" SampleRate="48000.0"
+          Volume="7" MonolithOffset="614400" MonolithLength="614400"/>
+  <sample Root="57" LoKey="56" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_A2.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614419" SampleRate="48000.0"
+          Volume="7" MonolithOffset="1228800" MonolithLength="618496"/>
+  <sample Root="69" LoKey="68" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_A3.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614355" SampleRate="48000.0"
+          Volume="7" MonolithOffset="1847296" MonolithLength="614400"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_A4.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614389" SampleRate="48000.0"
+          Volume="7" MonolithOffset="2461696" MonolithLength="614400"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_A5.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614402" SampleRate="48000.0"
+          Volume="7" MonolithOffset="3076096" MonolithLength="618496"/>
+  <sample Root="24" LoKey="0" HiKey="25" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/clavi1_C0.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614365" SampleRate="48000.0"
+          Volume="7" MonolithOffset="3694592" MonolithLength="614400"/>
+  <sample Root="36" LoKey="35" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_C1.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614399" SampleRate="48000.0"
+          Volume="7" MonolithOffset="4308992" MonolithLength="614400"/>
+  <sample Root="48" LoKey="47" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_C2.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614422" SampleRate="48000.0"
+          Volume="7" MonolithOffset="4923392" MonolithLength="618496"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_C3.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614395" SampleRate="48000.0"
+          Volume="7" MonolithOffset="5541888" MonolithLength="614400"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_C4.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614382" SampleRate="48000.0"
+          Volume="7" MonolithOffset="6156288" MonolithLength="614400"/>
+  <sample Root="84" LoKey="83" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_C5.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614397" SampleRate="48000.0"
+          Volume="7" MonolithOffset="6770688" MonolithLength="614400"/>
+  <sample Root="96" LoKey="95" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_C6.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614411" SampleRate="48000.0"
+          Volume="7" MonolithOffset="7385088" MonolithLength="618496"/>
+  <sample Root="27" LoKey="26" HiKey="28" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_D#0.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614407" SampleRate="48000.0"
+          Volume="7" MonolithOffset="8003584" MonolithLength="618496"/>
+  <sample Root="39" LoKey="38" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_D#1.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="653456" SampleRate="48000.0"
+          Volume="7" MonolithOffset="8622080" MonolithLength="655360"/>
+  <sample Root="51" LoKey="50" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_D#2.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614401" SampleRate="48000.0"
+          Volume="7" MonolithOffset="9277440" MonolithLength="618496"/>
+  <sample Root="63" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_D#3.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614420" SampleRate="48000.0"
+          Volume="7" MonolithOffset="9895936" MonolithLength="618496"/>
+  <sample Root="75" LoKey="74" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_D#4.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614368" SampleRate="48000.0"
+          Volume="7" MonolithOffset="10514432" MonolithLength="614400"/>
+  <sample Root="87" LoKey="86" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_D#5.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614403" SampleRate="48000.0"
+          Volume="7" MonolithOffset="11128832" MonolithLength="618496"/>
+  <sample Root="30" LoKey="29" HiKey="31" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_F#0.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614405" SampleRate="48000.0"
+          Volume="7" MonolithOffset="11747328" MonolithLength="618496"/>
+  <sample Root="42" LoKey="41" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_F#1.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614403" SampleRate="48000.0"
+          Volume="7" MonolithOffset="12365824" MonolithLength="618496"/>
+  <sample Root="54" LoKey="53" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_F#2.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614400" SampleRate="48000.0"
+          Volume="7" MonolithOffset="12984320" MonolithLength="614400"/>
+  <sample Root="66" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_F#3.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614369" SampleRate="48000.0"
+          Volume="7" MonolithOffset="13598720" MonolithLength="614400"/>
+  <sample Root="78" LoKey="77" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_F#4.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614380" SampleRate="48000.0"
+          Volume="7" MonolithOffset="14213120" MonolithLength="614400"/>
+  <sample Root="90" LoKey="89" HiKey="91" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Clavi/FM clavi samples/Clavi1_F#5.wav"
+          Duplicate="0" SampleStartMod="25000" SampleEnd="614385" SampleRate="48000.0"
+          Volume="7" MonolithOffset="14827520" MonolithLength="614400"/>
+</samplemap>

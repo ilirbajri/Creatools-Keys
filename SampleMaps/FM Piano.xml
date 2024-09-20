@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="FM Piano" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="45" LoKey="43" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_A0.wav"
+          Duplicate="0" SampleStartMod="268965" SampleEnd="864821" SampleRate="48000.0"
+          MonolithOffset="0" MonolithLength="868352"/>
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_A1.wav"
+          Duplicate="0" SampleStartMod="145761" SampleEnd="582438" SampleRate="48000.0"
+          MonolithOffset="868352" MonolithLength="585728"/>
+  <sample Root="69" LoKey="67" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_A2.wav"
+          Duplicate="0" SampleStartMod="90000" SampleEnd="339783" SampleRate="48000.0"
+          MonolithOffset="1454080" MonolithLength="339968"/>
+  <sample Root="81" LoKey="79" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_A3.wav"
+          Duplicate="0" SampleStartMod="56694" SampleEnd="202447" SampleRate="48000.0"
+          MonolithOffset="1794048" MonolithLength="204800"/>
+  <sample Root="93" LoKey="91" HiKey="93" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_A4.wav"
+          Duplicate="0" SampleStartMod="32204" SampleEnd="125856" SampleRate="48000.0"
+          MonolithOffset="1998848" MonolithLength="126976"/>
+  <sample Root="36" LoKey="0" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_C0.wav"
+          Duplicate="0" SampleStartMod="432077" SampleEnd="893086" SampleRate="48000.0"
+          MonolithOffset="2125824" MonolithLength="897024"/>
+  <sample Root="48" LoKey="46" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_C1.wav"
+          Duplicate="0" SampleStartMod="274904" SampleEnd="858753" SampleRate="48000.0"
+          MonolithOffset="3022848" MonolithLength="860160"/>
+  <sample Root="60" LoKey="58" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_C2.wav"
+          Duplicate="0" SampleStartMod="156759" SampleEnd="579025" SampleRate="48000.0"
+          MonolithOffset="3883008" MonolithLength="581632"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_C3.wav"
+          Duplicate="0" SampleStartMod="85430" SampleEnd="338109" SampleRate="48000.0"
+          MonolithOffset="4464640" MonolithLength="339968"/>
+  <sample Root="84" LoKey="82" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_C4.wav"
+          Duplicate="0" SampleStartMod="55445" SampleEnd="202122" SampleRate="48000.0"
+          MonolithOffset="4804608" MonolithLength="204800"/>
+  <sample Root="96" LoKey="94" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_C5.wav"
+          Duplicate="0" SampleStartMod="34138" SampleEnd="137808" SampleRate="48000.0"
+          MonolithOffset="5009408" MonolithLength="139264"/>
+  <sample Root="39" LoKey="37" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_D#0.wav"
+          Duplicate="0" SampleStartMod="340504" SampleEnd="878421" SampleRate="48000.0"
+          MonolithOffset="5148672" MonolithLength="880640"/>
+  <sample Root="51" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_D#1.wav"
+          Duplicate="0" SampleStartMod="216585" SampleEnd="808497" SampleRate="48000.0"
+          MonolithOffset="6029312" MonolithLength="811008"/>
+  <sample Root="63" LoKey="61" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_D#2.wav"
+          Duplicate="0" SampleStartMod="137229" SampleEnd="495362" SampleRate="48000.0"
+          MonolithOffset="6840320" MonolithLength="495616"/>
+  <sample Root="75" LoKey="73" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_D#3.wav"
+          Duplicate="0" SampleStartMod="76959" SampleEnd="289011" SampleRate="48000.0"
+          MonolithOffset="7335936" MonolithLength="290816"/>
+  <sample Root="87" LoKey="85" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_D#4.wav"
+          Duplicate="0" SampleStartMod="46521" SampleEnd="180546" SampleRate="48000.0"
+          MonolithOffset="7626752" MonolithLength="184320"/>
+  <sample Root="42" LoKey="40" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_F#0.wav"
+          Duplicate="0" SampleStartMod="304011" SampleEnd="868221" SampleRate="48000.0"
+          MonolithOffset="7811072" MonolithLength="868352"/>
+  <sample Root="54" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_F#1.wav"
+          Duplicate="0" SampleStartMod="187110" SampleEnd="673557" SampleRate="48000.0"
+          MonolithOffset="8679424" MonolithLength="675840"/>
+  <sample Root="66" LoKey="64" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_F#2.wav"
+          Duplicate="0" SampleStartMod="104969" SampleEnd="410150" SampleRate="48000.0"
+          MonolithOffset="9355264" MonolithLength="413696"/>
+  <sample Root="78" LoKey="76" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_F#3.wav"
+          Duplicate="0" SampleStartMod="67773" SampleEnd="258262" SampleRate="48000.0"
+          MonolithOffset="9768960" MonolithLength="262144"/>
+  <sample Root="90" LoKey="88" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM Piano/FM Piano Samples/FMPiano_F#4.wav"
+          Duplicate="0" SampleStartMod="36868" SampleEnd="144661" SampleRate="48000.0"
+          MonolithOffset="10031104" MonolithLength="147456"/>
+</samplemap>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Electric Piano 5" RRGroupAmount="1.0"
+           MicPositions=";" SaveMode="2">
+  <sample Root="81" LoKey="81" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}26137__tarane468__hohner-pianet-t/465912__tarane468__004-pianet-t-a4.wav"
+          Duplicate="0" SampleStartMod="68284" Volume="-8" SampleEnd="277414"
+          SampleRate="44100.0" MonolithOffset="0" MonolithLength="278528"/>
+  <sample Root="69" LoKey="69" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}26137__tarane468__hohner-pianet-t/465913__tarane468__003-pianet-t-a3.wav"
+          Duplicate="0" SampleStartMod="83935" Volume="-8" SampleEnd="326694"
+          SampleRate="44100.0" MonolithOffset="278528" MonolithLength="327680"/>
+  <sample Root="57" LoKey="57" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}26137__tarane468__hohner-pianet-t/465914__tarane468__002-pianet-t-a2.wav"
+          Duplicate="0" SampleStartMod="183872" Volume="-8" SampleEnd="635169"
+          SampleRate="44100.0" MonolithOffset="606208" MonolithLength="638976"/>
+  <sample Root="45" LoKey="0" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}26137__tarane468__hohner-pianet-t/465915__tarane468__001-pianet-t-a1.wav"
+          Duplicate="0" SampleStartMod="216483" Volume="-8" SampleEnd="684306"
+          SampleRate="44100.0" MonolithOffset="1245184" MonolithLength="688128"/>
+</samplemap>

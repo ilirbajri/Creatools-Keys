@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Hand Chimes" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="94" LoKey="93" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Hand Chimes/sus_A#5_r01_main.wav" Duplicate="0"
+          SampleStartMod="90000" SampleEnd="179665" SampleRate="44100.0"
+          Volume="6" MonolithOffset="0" MonolithLength="180224"/>
+  <sample Root="81" LoKey="82" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Hand Chimes/sus_A4_r01_main.wav" Duplicate="0"
+          SampleStartMod="90000" SampleEnd="390780" SampleRate="44100.0"
+          Volume="2" MonolithOffset="180224" MonolithLength="393216"/>
+  <sample Root="72" LoKey="68" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Hand Chimes/sus_C4_r01_main.wav" Duplicate="0"
+          SampleStartMod="100907" SampleEnd="362085" SampleRate="44100.0"
+          Volume="2" MonolithOffset="573440" MonolithLength="364544"/>
+  <sample Root="62" LoKey="0" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Hand Chimes/sus_D3_r01_main.wav" Duplicate="0"
+          SampleStartMod="230985" SampleEnd="497362" SampleRate="44100.0"
+          Volume="2" MonolithOffset="937984" MonolithLength="499712"/>
+  <sample Root="74" LoKey="73" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Hand Chimes/sus_D4_r01_main.wav" Duplicate="0"
+          SampleStartMod="131329" SampleEnd="431773" SampleRate="44100.0"
+          Volume="4" MonolithOffset="1437696" MonolithLength="434176"/>
+  <sample Root="86" LoKey="83" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Hand Chimes/sus_D5_r01_main.wav" Duplicate="0"
+          SampleStartMod="90000" SampleEnd="401028" SampleRate="44100.0"
+          Volume="2" MonolithOffset="1871872" MonolithLength="401408"/>
+  <sample Root="76" LoKey="75" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Hand Chimes/sus_E4_r01_main.wav" Duplicate="0"
+          SampleStartMod="64825" SampleEnd="303670" SampleRate="44100.0"
+          Volume="2" MonolithOffset="2273280" MonolithLength="307200"/>
+  <sample Root="88" LoKey="87" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Hand Chimes/sus_E5_r01_main.wav" Duplicate="0"
+          SampleStartMod="88389" SampleEnd="225783" SampleRate="44100.0"
+          Volume="2" MonolithOffset="2580480" MonolithLength="229376"/>
+  <sample Root="68" LoKey="66" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Hand Chimes/sus_G#3_r01_main.wav" Duplicate="0"
+          SampleStartMod="148990" SampleEnd="522983" SampleRate="44100.0"
+          Volume="2" MonolithOffset="2809856" MonolithLength="524288"/>
+  <sample Root="80" LoKey="79" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Hand Chimes/sus_G#4_r01_main.wav" Duplicate="0"
+          SampleStartMod="90000" SampleEnd="406153" SampleRate="44100.0"
+          Volume="2" MonolithOffset="3334144" MonolithLength="409600"/>
+  <sample Root="92" LoKey="89" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Hand Chimes/sus_G#5_r01_main.wav" Duplicate="0"
+          SampleStartMod="90000" SampleEnd="213485" SampleRate="44100.0"
+          Volume="-2" MonolithOffset="3743744" MonolithLength="217088"/>
+</samplemap>

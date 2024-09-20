@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="SS Tines 1" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="36" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}FM FullTines/FM FullTines Samples/FMFullTines_C0.wav"
+          Duplicate="0" SampleStartMod="483841" SampleEnd="790311" SampleRate="48000.0"
+          Volume="2" MonolithOffset="0" MonolithLength="790528"/>
+</samplemap>

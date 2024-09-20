@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Electric Piano 3" RRGroupAmount="1.0"
+           MicPositions=";" SaveMode="2">
+  <sample Root="29" LoKey="0" HiKey="30" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_029__F1_4.flac"
+          Duplicate="0" SampleEnd="617429" SampleRate="44100.0" SampleStartMod="583130"
+          Volume="-9" MonolithOffset="0" MonolithLength="618496"/>
+  <sample Root="35" LoKey="31" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_035__B1_4.flac"
+          Duplicate="0" SampleEnd="714437" SampleRate="44100.0" SampleStartMod="675894"
+          Volume="-9" MonolithOffset="618496" MonolithLength="716800"/>
+  <sample Root="40" LoKey="37" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_040__E2_4.flac"
+          Duplicate="0" SampleEnd="837948" SampleRate="44100.0" SampleStartMod="794495"
+          Volume="-9" MonolithOffset="1335296" MonolithLength="839680"/>
+  <sample Root="50" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_050__D3_4.flac"
+          Duplicate="0" SampleEnd="785012" SampleRate="44100.0" SampleStartMod="517841"
+          Volume="-10" MonolithOffset="2174976" MonolithLength="786432"/>
+  <sample Root="55" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_055__G3_4.flac"
+          Duplicate="0" SampleEnd="882022" SampleRate="44100.0" SampleStartMod="612802"
+          Volume="-8" MonolithOffset="2961408" MonolithLength="884736"/>
+  <sample Root="59" LoKey="56" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_059__B3_4.flac"
+          Duplicate="0" SampleEnd="661521" SampleRate="44100.0" SampleStartMod="419136"
+          Volume="-9" MonolithOffset="3846144" MonolithLength="663552"/>
+  <sample Root="62" LoKey="60" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_062__D4_4.flac"
+          Duplicate="0" SampleEnd="627267" SampleRate="44100.0" SampleStartMod="453874"
+          Volume="-9" MonolithOffset="4509696" MonolithLength="630784"/>
+  <sample Root="65" LoKey="63" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_065__F4_4.flac"
+          Duplicate="0" SampleEnd="661506" SampleRate="44100.0" SampleStartMod="424047"
+          Volume="-9" MonolithOffset="5140480" MonolithLength="663552"/>
+  <sample Root="71" LoKey="68" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_071__B4_4.flac"
+          Duplicate="0" SampleEnd="538027" SampleRate="44100.0" SampleStartMod="315167"
+          Volume="-9" MonolithOffset="5804032" MonolithLength="540672"/>
+  <sample Root="76" LoKey="73" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_076__E5_4.flac"
+          Duplicate="0" SampleEnd="238151" SampleRate="44100.0" SampleStartMod="146772"
+          Volume="-9" MonolithOffset="6344704" MonolithLength="241664"/>
+  <sample Root="81" LoKey="78" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_081__A5_4.flac"
+          Duplicate="0" SampleEnd="343994" SampleRate="44100.0" SampleStartMod="188822"
+          Volume="-9" MonolithOffset="6586368" MonolithLength="344064"/>
+  <sample Root="86" LoKey="83" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_086__D6_4.flac"
+          Duplicate="0" SampleEnd="317528" SampleRate="44100.0" SampleStartMod="176891"
+          Volume="-9" MonolithOffset="6930432" MonolithLength="319488"/>
+  <sample Root="91" LoKey="88" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_091__G6_4.flac"
+          Duplicate="0" SampleEnd="141132" SampleRate="44100.0" SampleStartMod="73947"
+          Volume="-9" MonolithOffset="7249920" MonolithLength="143360"/>
+  <sample Root="96" LoKey="93" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Rhodes/jRhodes3d-mono/A_096__C7_4.flac"
+          Duplicate="0" SampleEnd="61752" SampleRate="44100.0" SampleStartMod="30694"
+          Volume="-9" MonolithOffset="7393280" MonolithLength="65536"/>
+</samplemap>

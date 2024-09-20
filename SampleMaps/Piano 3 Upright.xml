@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Piano 3 Upright" RRGroupAmount="1.0"
+           MicPositions=";" SaveMode="2">
+  <sample Root="21" LoKey="0" HiKey="22" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_A-1.wav"
+          Duplicate="0" SampleStartMod="300134" SampleEnd="1152986" SampleRate="44100.0"
+          Volume="3" MonolithOffset="0" MonolithLength="1155072"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_A1.wav"
+          Duplicate="0" SampleStartMod="293370" SampleEnd="1025414" SampleRate="44100.0"
+          Volume="2" MonolithOffset="1155072" MonolithLength="1028096"/>
+  <sample Root="69" LoKey="69" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_A3.wav"
+          Duplicate="0" SampleStartMod="137881" SampleEnd="786730" SampleRate="44100.0"
+          Volume="-1" MonolithOffset="2183168" MonolithLength="790528"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_A4.wav"
+          Duplicate="0" SampleStartMod="116165" SampleEnd="623019" SampleRate="44100.0"
+          Volume="4" MonolithOffset="2973696" MonolithLength="626688"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_A5.wav"
+          Duplicate="0" SampleStartMod="36564" SampleEnd="247779" SampleRate="44100.0"
+          Volume="7" MonolithOffset="3600384" MonolithLength="249856"/>
+  <sample Root="105" LoKey="105" HiKey="106" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_A6.wav"
+          Duplicate="0" SampleStartMod="6682" SampleEnd="78562" SampleRate="44100.0"
+          Volume="8" MonolithOffset="3850240" MonolithLength="81920"/>
+  <sample Root="23" LoKey="23" HiKey="24" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_B-1.wav"
+          Duplicate="0" SampleStartMod="333646" SampleEnd="896290" SampleRate="44100.0"
+          Volume="7" MonolithOffset="3932160" MonolithLength="897024"/>
+  <sample Root="35" LoKey="34" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_B0.wav"
+          Duplicate="0" SampleStartMod="255170" SampleEnd="1366427" SampleRate="44100.0"
+          Volume="3" MonolithOffset="4829184" MonolithLength="1368064"/>
+  <sample Root="47" LoKey="47" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_B1.wav"
+          Duplicate="0" SampleStartMod="180523" SampleEnd="1064653" SampleRate="44100.0"
+          Volume="4" MonolithOffset="6197248" MonolithLength="1064960"/>
+  <sample Root="59" LoKey="58" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_B2.wav"
+          Duplicate="0" SampleStartMod="190614" SampleEnd="968979" SampleRate="44100.0"
+          Volume="2" MonolithOffset="7262208" MonolithLength="970752"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_B4.wav"
+          Duplicate="0" SampleStartMod="106670" SampleEnd="638915" SampleRate="44100.0"
+          Volume="3" MonolithOffset="8232960" MonolithLength="638976"/>
+  <sample Root="95" LoKey="95" HiKey="96" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_B5.wav"
+          Duplicate="0" SampleStartMod="26569" SampleEnd="155462" SampleRate="44100.0"
+          Volume="4" MonolithOffset="8871936" MonolithLength="155648"/>
+  <sample Root="107" LoKey="107" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_B6.wav"
+          Duplicate="0" SampleStartMod="7406" SampleEnd="103515" SampleRate="44100.0"
+          Volume="9" MonolithOffset="9027584" MonolithLength="106496"/>
+  <sample Root="25" LoKey="25" HiKey="26" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_C#0.wav"
+          Duplicate="0" SampleStartMod="270695" SampleEnd="1076961" SampleRate="44100.0"
+          Volume="3" MonolithOffset="9134080" MonolithLength="1077248"/>
+  <sample Root="37" LoKey="37" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_C#1.wav"
+          Duplicate="0" SampleStartMod="248892" SampleEnd="1177069" SampleRate="44100.0"
+          Volume="2" MonolithOffset="10211328" MonolithLength="1179648"/>
+  <sample Root="49" LoKey="49" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_C#2.wav"
+          Duplicate="0" SampleStartMod="182294" SampleEnd="838335" SampleRate="44100.0"
+          Volume="2" MonolithOffset="11390976" MonolithLength="839680"/>
+  <sample Root="61" LoKey="60" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_C#3.wav"
+          Duplicate="0" SampleStartMod="175560" SampleEnd="868706" SampleRate="44100.0"
+          Volume="4" MonolithOffset="12230656" MonolithLength="872448"/>
+  <sample Root="85" LoKey="85" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_C#5.wav"
+          Duplicate="0" SampleStartMod="95818" SampleEnd="561985" SampleRate="44100.0"
+          Volume="5" MonolithOffset="13103104" MonolithLength="565248"/>
+  <sample Root="97" LoKey="97" HiKey="98" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_C#6.wav"
+          Duplicate="0" SampleStartMod="26952" SampleEnd="154496" SampleRate="44100.0"
+          Volume="9" MonolithOffset="13668352" MonolithLength="155648"/>
+  <sample Root="27" LoKey="27" HiKey="28" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_D#0.wav"
+          Duplicate="0" SampleStartMod="301060" SampleEnd="1001029" SampleRate="44100.0"
+          Volume="4" MonolithOffset="13824000" MonolithLength="1003520"/>
+  <sample Root="39" LoKey="39" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_D#1.wav"
+          Duplicate="0" SampleStartMod="257024" SampleEnd="1024936" SampleRate="44100.0"
+          Volume="4" MonolithOffset="14827520" MonolithLength="1028096"/>
+  <sample Root="63" LoKey="63" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_D#3.wav"
+          Duplicate="0" SampleStartMod="134995" SampleEnd="772334" SampleRate="44100.0"
+          Volume="4" MonolithOffset="15855616" MonolithLength="774144"/>
+  <sample Root="75" LoKey="73" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_D#4.wav"
+          Duplicate="0" SampleStartMod="117267" SampleEnd="790620" SampleRate="44100.0"
+          Volume="3" MonolithOffset="16629760" MonolithLength="794624"/>
+  <sample Root="99" LoKey="99" HiKey="100" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_D#6.wav"
+          Duplicate="0" SampleStartMod="15648" SampleEnd="107758" SampleRate="44100.0"
+          Volume="9" MonolithOffset="17424384" MonolithLength="110592"/>
+  <sample Root="29" LoKey="29" HiKey="30" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_F0.wav"
+          Duplicate="0" SampleStartMod="176855" SampleEnd="1025895" SampleRate="44100.0"
+          Volume="3" MonolithOffset="17534976" MonolithLength="1028096"/>
+  <sample Root="41" LoKey="41" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_F1.wav"
+          Duplicate="0" SampleStartMod="289783" SampleEnd="1157661" SampleRate="44100.0"
+          Volume="1" MonolithOffset="18563072" MonolithLength="1159168"/>
+  <sample Root="53" LoKey="53" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_F2.wav"
+          Duplicate="0" SampleStartMod="176081" SampleEnd="959754" SampleRate="44100.0"
+          Volume="4" MonolithOffset="19722240" MonolithLength="962560"/>
+  <sample Root="65" LoKey="65" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_F3.wav"
+          Duplicate="0" SampleStartMod="149837" SampleEnd="816365" SampleRate="44100.0"
+          Volume="2" MonolithOffset="20684800" MonolithLength="819200"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_F4.wav"
+          Duplicate="0" SampleStartMod="78307" SampleEnd="475559" SampleRate="44100.0"
+          Volume="4" MonolithOffset="21504000" MonolithLength="479232"/>
+  <sample Root="89" LoKey="88" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_F5.wav"
+          Duplicate="0" SampleStartMod="78122" SampleEnd="467918" SampleRate="44100.0"
+          Volume="3" MonolithOffset="21983232" MonolithLength="471040"/>
+  <sample Root="101" LoKey="101" HiKey="102" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_F6.wav"
+          Duplicate="0" SampleStartMod="10937" SampleEnd="120853" SampleRate="44100.0"
+          Volume="13" MonolithOffset="22454272" MonolithLength="122880"/>
+  <sample Root="31" LoKey="31" HiKey="33" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_G0.wav"
+          Duplicate="0" SampleStartMod="260538" SampleEnd="844750" SampleRate="44100.0"
+          Volume="3" MonolithOffset="22577152" MonolithLength="847872"/>
+  <sample Root="43" LoKey="43" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_G1.wav"
+          Duplicate="0" SampleStartMod="211824" SampleEnd="857869" SampleRate="44100.0"
+          Volume="1" MonolithOffset="23425024" MonolithLength="860160"/>
+  <sample Root="55" LoKey="55" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_G2.wav"
+          Duplicate="0" SampleStartMod="172215" SampleEnd="832346" SampleRate="44100.0"
+          Volume="3" MonolithOffset="24285184" MonolithLength="835584"/>
+  <sample Root="67" LoKey="67" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_G3.wav"
+          Duplicate="0" SampleStartMod="164022" SampleEnd="881631" SampleRate="44100.0"
+          Volume="0" MonolithOffset="25120768" MonolithLength="884736"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_G4.wav"
+          Duplicate="0" SampleStartMod="105036" SampleEnd="591449" SampleRate="44100.0"
+          Volume="4" MonolithOffset="26005504" MonolithLength="593920"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_G5.wav"
+          Duplicate="0" SampleStartMod="57728" SampleEnd="441900" SampleRate="44100.0"
+          Volume="2" MonolithOffset="26599424" MonolithLength="442368"/>
+  <sample Root="103" LoKey="103" HiKey="104" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Sustains/Player_vl2_rr1_G6.wav"
+          Duplicate="0" SampleStartMod="7517" SampleEnd="91980" SampleRate="44100.0"
+          Volume="8" MonolithOffset="27041792" MonolithLength="94208"/>
+</samplemap>

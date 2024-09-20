@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="SS Noise 4" RRGroupAmount="2.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="80" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_C4_rr1.wav"
+          Duplicate="0" Volume="17" SampleStartMod="30720" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="0" MonolithLength="36864"/>
+  <sample Root="64" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Unk/Releases/Harpsi4_Rel_Main_E3_rr1.wav"
+          Duplicate="0" Volume="15" SampleStartMod="33720" SampleEnd="36547"
+          SampleRate="44100.0" MonolithOffset="36864" MonolithLength="36864"/>
+</samplemap>
